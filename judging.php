@@ -21,7 +21,7 @@ http://aachen.speedcubing.com/</a>
 <p>
 Du bist Teilnehmer einer WCA Meisterschaft. Dann ist die Chance hoch,
 dass du auch als Schiedsrichter fungieren musst. Keine Angst,
-es ist im Grunde nicht schwer. Du solltest aufjedenfall, wie auch
+es ist im Grunde nicht schwer. Du solltest auf jeden Fall, wie auch
 jeder andere Teilnehmer, die
 <a href="http://cube.hackvalue.de/wca/">WCA Regeln</a> einmal gelesen
 haben. Keine Angst, du musst das nicht alles auswendig wissen.
@@ -41,7 +41,7 @@ allen anderen Gruppen schon.
 <h2>Lenke den Teilnehmer nicht ab</h2>
 
 <p>
-Sorge dafür, dass du den Teilnehmer während er sein
+Sorge dafür, dass du den Teilnehmer, während er sein
 Puzzle löst, nicht ablenkst. Schalte dein Handy aus,
 rede nicht mit anderen Teilnehmern, laufe nicht durch
 die Gegend und sprich mit dem Teilnehmer nur, wenn er
@@ -51,10 +51,10 @@ dich etwas fragt.
 <h2>Rufe den Namen des Teilnehmers</h2>
 
 <p>
-Sobald du ein gemischtes Puzzle erhälst, rufe laut und deutlich
+Sobald du ein gemischtes Puzzle erhältst, rufe laut und deutlich
 den Namen des Teilnehmers. Meldet er sich nicht, rufe erneut laut und
 deutlich. Meldet er sich immer noch nicht, bringe das Puzzle zurück
-und nehme einen anderen Teilnehmer.
+und nimm einen anderen Teilnehmer.
 </p>
 
 <h2>Halte den Würfel verdeckt</h2>
@@ -81,7 +81,7 @@ dafür, dass deine Stoppuhr bereit ist und ebenfalls auf "0.00" steht.
 Frage den Teilnehmer, ob er bereit ist ("Are you ready?", falls es sich
 nicht um einen deutschen Teilnehmer handelt). Nimm die Abdeckung erst
 herunter, wenn du dir ganz sicher bist, dass er bereit ist. Viele Teilnehmer
-senken den Kopf um sich einen moment lang zu konzentrieren, was oft als
+senken den Kopf um sich einen Moment lang zu konzentrieren, was oft als
 Nicken fehlinterpretiert wird. Der Teilnehmer ist bereit, wenn er laut und
 deutlich sagt, dass er bereit ist. Nicht früher! Entferne nun die Abdeckung
 vom Puzzle und starte deine Stoppuhr.
@@ -107,7 +107,7 @@ Stoppuhr. Zeigt deine Stoppuhr weniger als 15 Sekunden, ist alles
 in Ordnung. Ist die Zeit größer als 15 Sekunden, aber kleiner als
 17 Sekunden, so erhält der Teilnehmer 2 Strafsekunden. Teile ihm das
 aber erst nach dem Solve mit. Ist die Zeit größer als 17 Sekunden
-so wird der Solve für ungültig erklärt ("DNF"). Breche den Solve ab,
+so wird der Solve für ungültig erklärt ("DNF"). Brich den Solve ab,
 notiere "DNF" und lasse den Teilnehmer unterschreiben.
 </p>
 
@@ -147,7 +147,7 @@ Stelle liegen!
 Am Ende solltest du, falls der Teilnehmer keine Strafe erhält, die Zeit
 aufschreiben, die der Stackmat Timer zeigt (falls das Puzzle korrekt
 gelöst ist). Erhält der Teilnehmer zwei Strafsekunden, schreibe die Zeit
-auf gefolgt von "+2" und der entgültigen Zeit (z.B. "17.65 + 2 = 19.65").
+auf gefolgt von "+2" und der endgültigen Zeit (z.B. "17.65 + 2 = 19.65").
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gebe ihm
 sein Puzzle zurück und teile ihm mit, dass er fertig ist. Anderenfalls
 nimmst du das Puzzle mit zurück zum Mischen.

@@ -20,7 +20,7 @@ http://aachen.speedcubing.com/</a>
 
 <p>
 Du möchtest an deiner ersten Speedcubing Meisterschaft ("Competition")
-teilnehmen, aber weisst nicht, wie es dort so abläuft? Diese Seite
+teilnehmen, aber weißt nicht wie es dort so abläuft? Diese Seite
 soll dir eine kleine Hilfe sein, damit deine erste Competition
 ein schönes Erlebnis wird. Jede Competition ist anders, aber ein
 paar Grundabläufe sind bei fast allen Competitions gleich.
@@ -31,7 +31,7 @@ paar Grundabläufe sind bei fast allen Competitions gleich.
 <p>
 Die
 <a href="http://www.worldcubeassociation.org/">World Cube Association (WCA)</a>
-ist die regulierende Instanz im Speedcubing, wie etwa der DFB beim Fussball
+ist die regulierende Instanz im Speedcubing, wie etwa der DFB beim Fußball
 oder die NBA beim Basketball. Die WCA verwaltet die Ergebnisse der
 Competitions, stellt die internationalen und nationalen Ranglisten zur
 Verfügung und stellt die Regeln für den Ablauf einer Competition bereit.
@@ -40,9 +40,9 @@ disqualifiziert zu werden, weil du z.B. den Timer nicht richtig startest
 oder zur richtigen Zeit nicht am richtigen Ort bist. Du musst die
 Regeln natürlich nicht auswendig kennen, aber du solltest unbedingt
 zumindest einmal aufmerksam die gesamten Regeln lesen. Falls du
-Fragen hast oder einzelne Teile der Regeln nicht verstehst so solltest
+Fragen hast oder einzelne Teile der Regeln nicht verstehst, so solltest
 du unbedingt den Veranstalter oder andere Cuber vor der Competition
-oder während der Competition (aber aufjedenfall bevor du dran bist)
+oder während der Competition (aber auf jeden Fall bevor du dran bist)
 um Hilfe bitten. Die offiziellen WCA Regeln findest du hier:
 <a href="http://www.worldcubeassociation.org/regulations/">
 http://www.worldcubeassociation.org/regulations/</a>.
@@ -72,7 +72,7 @@ Du beherschst deine Methode gut und schaffst zuhause Zeiten mit denen
 du zufrieden bist? Auf einer Competition sieht das meistens anders aus.
 Du bist nervös, deine Hände zittern und dir gucken unter Umständen
 50 Leute oder mehr ganz genau mit kritischen Blicken auf die Finger.
-Um keine bösen Überraschungen zu erleben solltest du zuhause üben vor
+Um keine bösen Überraschungen zu erleben, solltest du zuhause üben vor
 vielen Leute zu lösen, z.B. vor Freunden, der Familie oder in der
 Öffentlichkeit, z.B. in der Schule oder in der Stadt.
 </p>
@@ -104,11 +104,11 @@ sofort an der Reihe bist. Am Anfang des Events werden daher die Leute
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
 Name dabei ist. Falls ja, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
-aufgerufen wird, bist du in der nächsten Gruppe. Von allen Teilnehmern,
+aufgerufen wird bist du in der nächsten Gruppe. Von allen Teilnehmern,
 die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
 sind, wird erwartet, dass sie als Schiedsrichter und/oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
-Wenn du nicht weisst, was ein Schiedsrichter zutun hat, solltest du
+Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du
 das <a href="judging.php">Judging Tutorial</a> lesen.
 </p>
 
