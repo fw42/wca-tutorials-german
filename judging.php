@@ -10,11 +10,13 @@ Anleitung für Schiedsrichter einer WCA Meisterschaft
 Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/jtutorial.php">Judging Tutorial</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
-Übersetzt von <a href="http://hackvalue.de">Florian Weingarten</a>
+Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
 (<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>)<br/>
 <a href="http://aachen.speedcubing.com/">
 http://aachen.speedcubing.com/</a>
 </p>
+
+<? include "credits.php" ?>
 
 <? include "menu.php" ?>
 
@@ -26,7 +28,13 @@ es ist im Grunde nicht schwer. Du solltest auf jeden Fall, wie auch
 jeder andere Teilnehmer, die
 <a href="http://cube.hackvalue.de/wca/">WCA Regeln</a> einmal gelesen
 haben. Keine Angst, du musst das nicht alles auswendig wissen.
-Hier ein paar Tipps:
+</p>
+
+<p>
+Beachte, dass sich diese Hinweise in erster Linie
+auf das "normale" Judgen von Puzzeln wie dem 3x3x3 Würfel beziehen.
+Für Spezialdisziplinen wie das Blindlösen oder z.B. das Rubik's Magic
+Puzzle gelten teilweise andere Regeln!
 </p>
 
 <h2>Teilnehmer und Schiedsrichter gleichzeitig</h2>
@@ -74,7 +82,7 @@ das Puzzle nicht sehen kann, also achte sehr gut darauf.
 <p>
 Sorge dafür, dass auf dem Tisch nichts im Weg liegt.
 Schalte den Stackmat Timer ein und
-lösche gegebenenfalls die Zeit auf "0.00" ("Reset" Knopf). Sorge
+lösche gegebenenfalls die Zeit auf "0.00" ("Reset"-Knopf). Sorge
 dafür, dass deine Stoppuhr bereit ist und ebenfalls auf "0.00" steht.
 </p>
 
@@ -173,7 +181,8 @@ dass neben dir auch der Teilnehmer selbst unterschreibt.
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gebe ihm
 sein Puzzle zurück und teile ihm mit, dass er fertig ist. Anderenfalls
 nimmst du das Puzzle mit zurück zum Mischen.
-In jedem Fall bringe das Scoresheet zurück zum Scrambletisch!
+In jedem Fall bringe das Scoresheet, d.h. den Zettel, auf dem du
+das Ergebnis notierst, zurück zum Scrambletisch!
 </p>
 
 <h2>Es gibt keine dummen Fragen</h2>

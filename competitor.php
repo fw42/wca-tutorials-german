@@ -10,11 +10,13 @@ Anleitung für Teilnehmer einer WCA Meisterschaft
 Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/ctutorial.php">Competitor Tutorial</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
-Übersetzt von <a href="http://hackvalue.de">Florian Weingarten</a>
+Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
 (<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>)<br/>
 <a href="http://aachen.speedcubing.com/">
 http://aachen.speedcubing.com/</a>
 </p>
+
+<? include "credits.php" ?>
 
 <? include "menu.php" ?>
 
@@ -40,7 +42,7 @@ Diese Regeln solltest du daher kennen um nicht Gefahr zu laufen
 disqualifiziert zu werden, weil du z.B. den Timer nicht richtig startest
 oder zur richtigen Zeit nicht am richtigen Ort bist. Du musst die
 Regeln natürlich nicht komplett auswendig kennen, aber du solltest unbedingt
-einmal aufmerksam die gesamten Regeln lesen, bevor du zu deniem ersten
+einmal aufmerksam die gesamten Regeln lesen, bevor du zu deinem ersten
 Wettkampf gehst. Falls du
 Fragen hast oder einzelne Teile der Regeln nicht verstehst, so solltest
 du unbedingt den Veranstalter oder andere Cuber vor der Competition
@@ -80,7 +82,7 @@ melde dich per E-Mail beim Organisator.
 <h2>Training</h2>
 
 <p>
-Du beherschst deine Methode gut und schaffst zuhause Zeiten mit denen
+Du beherrschst deine Methode gut und schaffst zuhause Zeiten mit denen
 du zufrieden bist? Auf einer Competition sieht das meistens anders aus.
 Du bist nervös, deine Hände zittern und dir gucken unter Umständen
 50 Leute oder mehr ganz genau mit kritischen Blicken auf die Finger.

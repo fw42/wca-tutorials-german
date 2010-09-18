@@ -31,6 +31,7 @@
     }
     a {
       color: blue;
+      text-decoration: none;
     }
     a:hover {
       color: red;
@@ -50,3 +51,9 @@
 
 <div align="center">
 <div id="container">
+
+<div align="center">
+<img src="logo.png" alt="" />
+</div>
+
+<br/>

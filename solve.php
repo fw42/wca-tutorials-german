@@ -10,11 +10,13 @@ Anleitung für Teilnehmer einer WCA Meisterschaft
 Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/solving.php">Complete your Solve Tutorial</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
-Übersetzt von <a href="http://hackvalue.de">Florian Weingarten</a>
+Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
 (<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>)<br/>
 <a href="http://aachen.speedcubing.com/">
 http://aachen.speedcubing.com/</a>
 </p>
+
+<? include "credits.php" ?>
 
 <? include "menu.php" ?>
 
@@ -29,10 +31,10 @@ der offiziellen WCA Regeln.
 <h2>Sitzen oder stehen?</h2>
 
 <p>
-Überlege dir vorher, ob du im sitzen oder im stehen lösen
+Überlege dir vorher, ob du im Sitzen oder im Stehen lösen
 möchtest. Beides ist erlaubt und es ist eine Frage der
 persönlichen Vorliebe. Die meisten Leute sitzen lieber,
-aber viele gute Cuber lösen auch im stehen. Falls es freie Stehtische
+aber viele gute Cuber lösen auch im Stehen. Falls es freie Stehtische
 und freie Sitzplätze gibt, sage deinem Schiedsrichter, welchen Platz
 du bevorzugst.
 </p>
@@ -121,7 +123,7 @@ der Schiedsrichter es tut.
 
 <p>
 Der Schiedsrichter wird nun den Würfel inspizieren und entscheiden ob er
-korrekt gelöst ist. Unter garkeinen Umständen darfst du den Würfel anfassen,
+korrekt gelöst ist. Unter gar keinen Umständen darfst du den Würfel anfassen,
 bevor der Schiedsrichter dir sein OK signalisiert.
 Überprüfe genau, was der Schiedsrichter
 aufschreibt. Falls er die falsche Zeit aufschreibt, steht es hinterher
