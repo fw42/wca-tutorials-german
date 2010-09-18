@@ -3,7 +3,7 @@
 <h1>Puzzle Lösen</h1>
 
 <p align="center">
-Anleitung für Teilnehmer einer WCA Meisterschaft
+Anleitung für Teilnehmer eines WCA Wettbewerbs
 </p>
 
 <p align="center" class="small">
@@ -97,7 +97,7 @@ Die Zeit läuft. Jetzt musst du das Puzzle lösen. Falls du das Pech hast
 deinen Würfel zu "poppen", d.h. Teile fallen heraus, dann darfst du den
 Würfel wieder zusammen bauen. Wenn du den Würfel falsch zusammen baust
 ist er nicht lösbar. Du darfst das korrigieren indem du Teile erneut aus-
-und wieder richtig einbaust. Wenn du fertig bist mit lösen, stoppe
+und wieder richtig einbaust. Wenn du fertig bist mit Lösen, stoppe
 so schnell du kannst die Zeit. Der Schiedsrichter notiert deine Zeit.
 Falls der Würfel nicht gelöst ist, ist das Resultat ungültig ("DNF",
 "Did not Finish") oder es wird eine Strafzeit gegeben ("+2"). Erhältst du

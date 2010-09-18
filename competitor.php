@@ -3,7 +3,7 @@
 <h1>Competitor Tutorial</h1>
 
 <p align="center">
-Anleitung für Teilnehmer einer WCA Meisterschaft
+Anleitung für Teilnehmer eines WCA Wettbewerbs
 </p>
 
 <p align="center" class="small">
@@ -21,7 +21,7 @@ http://aachen.speedcubing.com/</a>
 <? include "menu.php" ?>
 
 <p>
-Du möchtest an deiner ersten Speedcubing Meisterschaft ("Competition")
+Du möchtest an deinem ersten Speedcubing-Wettbewerb ("Competition")
 teilnehmen, aber weißt nicht wie es dort so abläuft? Diese Seite
 soll dir eine kleine Hilfe sein, damit deine erste Competition
 ein schönes Erlebnis wird. Jede Competition ist anders, aber ein
@@ -37,7 +37,7 @@ Die
 ist die regulierende Instanz im Speedcubing, wie etwa der DFB beim Fußball
 oder die NBA beim Basketball. Die WCA verwaltet die Ergebnisse der
 Competitions, stellt die internationalen und nationalen Ranglisten zur
-Verfügung und stellt die Regeln für den Ablauf einer Competition bereit.
+Verfügung und stellt die Regeln für den Ablauf einer Competition auf.
 Diese Regeln solltest du daher kennen um nicht Gefahr zu laufen
 disqualifiziert zu werden, weil du z.B. den Timer nicht richtig startest
 oder zur richtigen Zeit nicht am richtigen Ort bist. Du musst die
@@ -58,7 +58,7 @@ http://cube.hackvalue.de/wca/</a>.
 <h2>Vorher anmelden!</h2>
 
 <p>
-Alle Meisterschaften müssen über eine Webseite verfügen auf der wichtige
+Alle Wettbewerbe müssen über eine Webseite verfügen auf der wichtige
 Informationen angekündigt werden. Eine Liste aller bereits angekündigten
 Competitions findest du hier:
 <a href="http://www.worldcubeassociation.org/results/competitions.php">
@@ -100,7 +100,9 @@ in Betracht ziehen diese gegen neue zu ersetzen (z.B. von
 <a href="http://www.cubikon.de/">Cubikon</a> oder 
 <a href="http://www.cubesmith.com/">Cubesmith</a>).
 Besonders beim Blindlösen kann es sonst unter Umständen passieren,
-dass du mit deinem Puzzle nicht teilnehmen darfst.
+dass du mit deinem Puzzle nicht teilnehmen darfst, siehe
+<a href="http://cube.hackvalue.de/wca/#blindfoldedsolving">Abschnitt B1d</a>
+der WCA Regeln.
 </p>
 
 <h2>Plane deinen Tag</h2>
@@ -127,7 +129,7 @@ und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
 aufgerufen wird, bist du in einer der nächsten Gruppen.
 Von allen Teilnehmern,
 die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
-sind, wird erwartet, dass sie als Schiedsrichter und/oder als Scrambler
+sind, wird erwartet, dass sie als Schiedsrichter oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
 Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du
 das <a href="judging.php">Judging Tutorial</a> lesen.

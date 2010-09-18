@@ -3,7 +3,7 @@
 <h1>Competition Orga Tutorial</h1>
 
 <p align="center">
-Anleitung für Organisatoren einer WCA Meisterschaft
+Anleitung für Organisatoren eines WCA Wettbewerbs
 </p>
 
 <p align="center" class="small">
@@ -33,7 +33,7 @@ Eine Competition zu organisieren ist keine leichte Aufgabe
 (vor allem wenn man finanziell sehr eingeschränkt ist),
 aber auch nicht so schwer, wie man vielleicht denkt. Auf dieser Seite
 sollen ein paar Tipps gegeben werden und eine Liste von Dingen, die man
-beim Organisieren einer Meisterschaft beachten sollte.
+beim Organisieren beachten sollte.
 </p>
 
 <h2>Was du brauchen wirst</h2>
@@ -41,7 +41,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
 <ul>
  <li>
   <b>Computer und Drucker</b><br/>
-  Einen Computer, am besten Laptop, sowie einen Farbdrucker sind unbedingt
+  Ein Computer, am besten Laptop, sowie ein Farbdrucker sind unbedingt
   nötig für eine Competition. Am PC wirst du die Ergebnisse in das
   Excel Sheet eintragen müssen. Mit dem Drucker druckst du Ergebnisse,
   Urkunden und andere Dinge. Die Ergebnisse solltest du im Raum
@@ -118,7 +118,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Besuche andere Competitions</b><br/>
-  Eine Meisterschaft kann man nur organisieren, wenn man weiß, was das ist.
+  Eine Competition kann man nur organisieren, wenn man weiß, was das ist.
   Bevor du also selbst etwas planst, solltest du mindestens auf zwei bis
   drei Competitions gewesen sein und dir alles sehr
   genau angeschaut haben. Achte vor allem darauf, welche Aufgaben das
@@ -131,7 +131,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
   Eine gute Competition sollte mindestens 20 Teilnehmer haben
   (und muss mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
   werden). Erkundige dich vorher, z.B. in Internetforen und deinem
-  Bekanntenkreis, ob überhaupt Interesse an einer Meisterschaft
+  Bekanntenkreis, ob überhaupt Interesse an einer Competition
   in deinem Ort besteht.
  </li>
  <li>
@@ -192,7 +192,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Erstelle einen Zeitplan</b><br/>
-  Überleg dir zunächst, welche Events du überhaupt auf deinem Turnier
+  Überlege dir zunächst, welche Events du überhaupt auf deinem Turnier
   veranstalten willst. Überlege dir dann, wann welches Event stattfinden
   soll, wie lange es ungefähr dauern wird, wie viele Leute in die nächste
   Runde kommen werden, etc. Um einen guten und funktionierenden Zeitplan
@@ -205,7 +205,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Erstelle eine Webseite</b><br/>
-  Jede Meisterschaft sollte eine Webseite haben, auf der alle nötigen
+  Jede Competition sollte eine Webseite haben, auf der alle nötigen
   Informationen (Termin, Ort, Zeitplan, Eintrittspreis) angekündigt werden.
   Du solltest auch eine Liste von Übernachtungsmöglichkeiten in der Nähe
   angeben. Praktisch ist auch, wenn sich die Teilnehmer direkt auf dieser
@@ -245,7 +245,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  <li>
   <b>Bereite das Excel Worksheet vor</b><br/>
   Mache dich mit Microsoft Excel (oder OpenOffice Spreadsheet) vertraut.
-  Die Ergebnisse der Meisterschaft werden in einer Excel Tabelle notiert
+  Die Ergebnisse der Competition werden in einer Excel Tabelle notiert
   und deren Benutzung ist teilweise nicht ganz leicht. Bitte deinen
   Delegate dir eine Kopie der Datei zuzusenden.
   (Sowohl Sébastien als auch Ron benutzen selbst programmierte
@@ -254,7 +254,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Installier die Scramble Programme</b><br/>
-  Es kann passieren, dass du während der Meisterschaft zusätzliche Scrambles
+  Es kann passieren, dass du während der Competition zusätzliche Scrambles
   benötigst. Installiere dir daher die Scramble Programme
   (siehe <a href="http://cube.hackvalue.de/wca/#scrambling">WCA Regeln</a>)
   auf deinem Computer.
@@ -297,7 +297,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
   <b>Kündige die Competition in der Community an</b><br/>
   Jetzt ist es an der Zeit, kräftig Werbung zu machen. Nicht jeder
   Speedcuber liest regelmäßig die WCA Webseite, daher solltest du in
-  möglichst vielen Internetforen deine Meisterschaft ankündigen
+  möglichst vielen Internetforen deine Competition ankündigen
   (z.B. <a href="http://www.speedcubers.de/">speedcubers.de</a>,
   <a href="http://www.speedcube.de/">speedcube.de</a> und
   <a href="http://www.speedsolving.com/">speedsolving.com</a>). Mache
@@ -308,7 +308,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
   <b>Kontaktiere die Medien</b><br/>
   Rede mit der Presse. Schreibe verschiedene Fernsehsender, Radiosender,
   Zeitungen, Magazine, Schülerzeitungen, etc. an und lade sie ein
-  deine Meisterschaft zu besuchen und darüber zu berichten.
+  deine Competition zu besuchen und darüber zu berichten.
  </li>
  <li>
   <b>Besorge Verpflegung</b><br/>
@@ -339,7 +339,7 @@ beim Organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Scrambler und Judges</b><br/>
-  Zuwenig Scrambler und zuwenig Judges sind der Hauptgrund, warum
+  Zu wenig Scrambler und zu wenig Judges sind der Hauptgrund, warum
   Competitions ihren Zeitplan nicht einhalten können.
   Achte stets darauf, ob genügend Helfer vorhanden sind und rufe
   nach welchen, sollte dies nicht der Fall sein: Nach den Regeln
@@ -369,8 +369,8 @@ beim Organisieren einer Meisterschaft beachten sollte.
   zu können.
  </li>
  <li>
-  <b>Mache die Meisterschaft einzigartig</b><br/>
-  Überleg dir, wie du deine Competition von anderen Competitions
+  <b>Mache die Competition einzigartig</b><br/>
+  Überlege dir, wie du deine Competition von anderen Competitions
   unterscheiden kannst und wie du dich hervorheben kannst. Z.B. durch
   besondere und seltene Events, durch besonders gutes Essen, besondere
   Preisregelungen (z.B. "alle Newcomer dürfen umsonst rein") oder andere

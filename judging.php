@@ -3,7 +3,7 @@
 <h1>Judging Tutorial</h1>
 
 <p align="center">
-Anleitung für Schiedsrichter einer WCA Meisterschaft
+Anleitung für Schiedsrichter eines WCA Wettbewerbs
 </p>
 
 <p align="center" class="small">
@@ -21,13 +21,13 @@ http://aachen.speedcubing.com/</a>
 <? include "menu.php" ?>
 
 <p>
-Du bist Teilnehmer einer WCA Meisterschaft. Dann ist es deine Pflicht,
+Du bist Teilnehmer eines WCA Wettbewerbs. Dann ist es deine Pflicht,
 auch als Schiedsrichter ("Judge") tätig zu sein.
 Keine Angst,
 es ist im Grunde nicht schwer. Du solltest auf jeden Fall, wie auch
 jeder andere Teilnehmer, die
 <a href="http://cube.hackvalue.de/wca/">WCA Regeln</a> einmal gelesen
-haben. Keine Angst, du musst das nicht alles auswendig wissen.
+haben, aber du musst das natürlich nicht alles auswendig wissen.
 </p>
 
 <p>
@@ -37,6 +37,21 @@ Für Spezialdisziplinen wie das Blindlösen oder z.B. das Rubik's Magic
 Puzzle gelten teilweise andere Regeln!
 </p>
 
+<h2>Scramblen</h2>
+
+<p>
+Du kannst helfen indem du entweder Schiedsrichter bist oder
+Puzzle mischst ("scramblest"). Letzteres solltest du nur tun,
+wenn du sicher weisst, wie das geht. Du musst in der Lage sein
+die Scramble-Notation für das Puzzle zu verstehen und korrekt
+anzuwenden. Weiterhin solltest du sicherstellen, dass du den
+korrekten Scramble benutzt (diese sind durchnummeriert) und
+den Scramble anschließend überprüfen. Falsch gescramblete Puzzle
+müssen gelöst und neu gescramblet werden. Weiterhin solltest du
+darauf achten, dass nur die Puzzle verdeckt sind, die bereits
+gemischt sind, da es sonst leicht zu Missverständnissen kommt.
+</p>
+
 <h2>Teilnehmer und Schiedsrichter gleichzeitig</h2>
 
 <p>
@@ -44,7 +59,7 @@ Manche Leute haben Angst, dass sie an einem Event nicht teilnehmen
 dürfen, wenn sie Schiedsrichter sind. Das ist kein Problem!
 Die Teilnehmer werden in Gruppen eingeteilt und du darfst in der
 Gruppe, in der du selber teilnimmst, kein Schiedsrichter sein
-(es sei denn du hast bereits alle deine Versuche hinter dich gebracht).
+(es sei denn, du hast bereits alle deine Versuche hinter dich gebracht).
 In allen anderen Gruppen darfst und sollst du judgen.
 </p>
 
@@ -175,13 +190,13 @@ aufschreiben, die der Stackmat Timer zeigt (falls das Puzzle korrekt
 gelöst ist). Erhält der Teilnehmer zwei Strafsekunden, schreibe die Zeit
 auf gefolgt von "+2" und der endgültigen Zeit (z.B. "17.65 + 2 = 19.65").
 Ist das Puzzle aus irgendwelchen Gründen nicht gelöst
-(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA-Regeln</a>),
+(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA Regeln</a>),
 so schreibst du "DNF" auf. Sowohl bei "+2" als auch bei "DNF" ist es wichtig,
 dass neben dir auch der Teilnehmer selbst unterschreibt.
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gebe ihm
 sein Puzzle zurück und teile ihm mit, dass er fertig ist. Anderenfalls
 nimmst du das Puzzle mit zurück zum Mischen.
-In jedem Fall bringe das Scoresheet, d.h. den Zettel, auf dem du
+Bringe in jedem Fall das Scoresheet, d.h. den Zettel, auf dem du
 das Ergebnis notierst, zurück zum Scrambletisch!
 </p>
 
@@ -192,7 +207,7 @@ Wenn du zu irgendeinem Zeitpunkt unsicher bist, was du tun sollst: Frage nach.
 Frage andere Schiedsrichter oder den WCA Delegierten (nicht den Teilnehmer!).
 Habe keine Angst davor den Leuten auf die Nerven zu fallen, denn sie werden
 froh sein, wenn du fragst, anstatt womöglich Fehler zu machen, siehe
-auch <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA-Regeln</a>.
+auch <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA Regeln</a>.
 </p>
 
 <? include "footer.php" ?>
