@@ -11,7 +11,7 @@
 
   <style type="text/css">
     body {
-      font:0.8em Verdana,Tahoma,Arial,sans-serif;
+      font:0.8em Tahoma,Verdana,Arial,sans-serif;
       line-height:1.3em;
       color:#303030;
       background:#e8eaec;

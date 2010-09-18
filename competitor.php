@@ -28,6 +28,7 @@ paar Grundabläufe sind bei fast allen Competitions gleich.
 
 <h2>Kenne die WCA Regeln</h2>
 
+
 <p>
 Die
 <a href="http://www.worldcubeassociation.org/">World Cube Association (WCA)</a>
@@ -118,9 +119,11 @@ Nur weil du für ein Event angemeldet bist, heißt das daher noch
 nicht unbedingt, dass du auch
 sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
-Name dabei ist. Falls ja, solltest du dein Puzzle zum Mischen abgeben
+Name dabei ist.
+Falls ja, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
-aufgerufen wird, bist du in einer der nächsten Gruppen. Von allen Teilnehmern,
+aufgerufen wird, bist du in einer der nächsten Gruppen.
+Von allen Teilnehmern,
 die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
 sind, wird erwartet, dass sie als Schiedsrichter und/oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
