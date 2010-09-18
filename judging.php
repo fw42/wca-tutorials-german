@@ -19,8 +19,9 @@ http://aachen.speedcubing.com/</a>
 <? include "menu.php" ?>
 
 <p>
-Du bist Teilnehmer einer WCA Meisterschaft. Dann ist die Chance hoch,
-dass du auch als Schiedsrichter fungieren musst. Keine Angst,
+Du bist Teilnehmer einer WCA Meisterschaft. Dann ist es deine Pflicht,
+auch als Schiedsrichter ("Judge") tätig zu sein.
+Keine Angst,
 es ist im Grunde nicht schwer. Du solltest auf jeden Fall, wie auch
 jeder andere Teilnehmer, die
 <a href="http://cube.hackvalue.de/wca/">WCA Regeln</a> einmal gelesen
@@ -34,26 +35,29 @@ Hier ein paar Tipps:
 Manche Leute haben Angst, dass sie an einem Event nicht teilnehmen
 dürfen, wenn sie Schiedsrichter sind. Das ist kein Problem!
 Die Teilnehmer werden in Gruppen eingeteilt und du darfst in der
-Gruppe, in der du selber teilnimmst, kein Schiedsrichter sein. In
-allen anderen Gruppen schon.
+Gruppe, in der du selber teilnimmst, kein Schiedsrichter sein
+(es sei denn du hast bereits alle deine Versuche hinter dich gebracht).
+In allen anderen Gruppen darfst und sollst du judgen.
 </p>
 
-<h2>Lenke den Teilnehmer nicht ab</h2>
+<h2>Wen judge ich?</h2>
 
 <p>
-Sorge dafür, dass du den Teilnehmer, während er sein
-Puzzle löst, nicht ablenkst. Schalte dein Handy aus,
-rede nicht mit anderen Teilnehmern, laufe nicht durch
-die Gegend und sprich mit dem Teilnehmer nur, wenn er
-dich etwas fragt.
+Wen du judgen sollst ist nicht fest zugeteilt. Im Gegenteil: Nimm dir
+selbstständig ein gemischtes Puzzle (natürlich mit dazugehörigem Zettel)
+vom Tisch und mache dich damit auf zum Wartebereich. Sei dabei nicht
+wählerisch! Klar ist es ganz cool, mal schnelle Teilnehmer oder seine
+Freunde zu judgen, aber auch alle anderen warten nicht gerne bis sie
+an der Reihe sind.
 </p>
 
 <h2>Rufe den Namen des Teilnehmers</h2>
 
 <p>
-Sobald du ein gemischtes Puzzle erhältst, rufe laut und deutlich
+Rufe laut und deutlich
 den Namen des Teilnehmers. Meldet er sich nicht, rufe erneut laut und
-deutlich. Meldet er sich immer noch nicht, bringe das Puzzle zurück
+deutlich. Meldet er sich immer noch nicht, bringe das Puzzle zurück,
+sag den Leuten am Scrambletisch kurz Bescheid
 und nimm einen anderen Teilnehmer.
 </p>
 
@@ -65,25 +69,25 @@ oder einem Blatt Papier. Es ist sehr wichtig, dass der Teilnehmer
 das Puzzle nicht sehen kann, also achte sehr gut darauf.
 </p>
 
-<h2>Sorg dafür, dass ihr bereit seid</h2>
+<h2>Sorge dafür, dass ihr bereit seid</h2>
 
 <p>
-Sorge dafür, dass auf dem Tisch nichts im Weg liegt. Lege Stifte,
-andere Puzzle und sonstige Gegenstände zur Seite. Auf dem Tisch sollte nur
-der verdeckte Würfel liegen. Schalte den Stackmat Timer ein und
+Sorge dafür, dass auf dem Tisch nichts im Weg liegt.
+Schalte den Stackmat Timer ein und
 lösche gegebenenfalls die Zeit auf "0.00" ("Reset" Knopf). Sorge
 dafür, dass deine Stoppuhr bereit ist und ebenfalls auf "0.00" steht.
 </p>
 
-<h2>Frage "Bereit"?</h2>
+<h2>Frage "Bereit?"</h2>
 
 <p>
 Frage den Teilnehmer, ob er bereit ist ("Are you ready?", falls es sich
 nicht um einen deutschen Teilnehmer handelt). Nimm die Abdeckung erst
-herunter, wenn du dir ganz sicher bist, dass er bereit ist. Viele Teilnehmer
+herunter, wenn er dir deutlich signalisiert, dass er bereit ist. Viele Teilnehmer
 senken den Kopf um sich einen Moment lang zu konzentrieren, was oft als
 Nicken fehlinterpretiert wird. Der Teilnehmer ist bereit, wenn er laut und
-deutlich sagt, dass er bereit ist. Nicht früher! Entferne nun die Abdeckung
+deutlich sagt, dass er bereit ist. Nicht früher! Wenn du dir nicht ganz sicher
+bist, dann frag im Zweifel lieber noch einmal nach. Entferne nun die Abdeckung
 vom Puzzle und starte deine Stoppuhr.
 </p>
 
@@ -96,7 +100,7 @@ Sobald deine Stoppuhr 8 Sekunden zeigt, sage laut und deutlich "8 seconds".
 <h2>"Go"</h2>
 
 <p>
-Sobald deine Stoppuhr 12 Sekunden zeigt, sage laut und deutlich "12 seconds".
+Sobald deine Stoppuhr 12 Sekunden zeigt, sage laut und deutlich "Go".
 </p>
 
 <h2>Stoppe deine Stoppuhr, sobald der Teilnehmer beginnt</h2>
@@ -111,18 +115,32 @@ so wird der Solve für ungültig erklärt ("DNF"). Brich den Solve ab,
 notiere "DNF" und lasse den Teilnehmer unterschreiben.
 </p>
 
-<h2>Während des Solves</h2>
+<h2>Lenke den Teilnehmer nicht ab</h2>
 
 <p>
-Während des Solves solltest du auf ein paar Dinge achten.
+Sorge dafür, dass du den Teilnehmer, während er sein
+Puzzle löst, nicht ablenkst. Schalte dein Handy aus,
+rede nicht mit anderen Teilnehmern, laufe nicht durch
+die Gegend und sprich mit dem Teilnehmer nur, wenn er
+dich etwas fragt.
+Besonders wenn es während des Solves zu irgendwelchen
+Zwischenfällen kommt, ist es wichtig, dass du als Judge
+aufmerksam bist, um im Zweifel dem Hauptschiedsrichter
+berichten zu können.
+</p>
+
+<p>
 Stell sicher, dass der Timer nicht vorzeitig gestoppt wird
 und die gesamte Zeit bis zum Ende korrekt läuft. Falls der Teilnehmer
 den Timer versehentlich (oder absichtlich) zu früh stoppt, z.B. mit
 den Armen während des Lösens, könntest du ihm versehentlich eine
-zu schnelle Zeit aufschreiben. Wenn der Timer nicht korrekt
+zu schnelle Zeit aufschreiben, wenn du nicht richtig aufpasst.
+Wenn der Timer nicht korrekt
 startet (z.B. weil die grüne Lampe nicht an war), der Teilnehmer
 aber bereits angefangen hat zu lösen, solltest du den Hauptschiedsrichter
 oder den WCA Delegierten um Rat bitten.
+Wenn du nicht weißt wer das ist oder ihn gerade nicht siehst,
+dann frag einfach am Scrambletisch nach.
 </p>
 
 <h2>Ende des Solves</h2>
@@ -130,13 +148,13 @@ oder den WCA Delegierten um Rat bitten.
 <p>
 Der Teilnehmer wird das Puzzle auf den Tisch legen und die Zeit stoppen.
 Der Timer muss mit den Handflächen gestoppt werden, nicht mit den 
-Handballen. Der Teilnehmer darf das Puzzle in diesem Moment nicht mehr
-in der Hand halten. Nachdem der Timer gestoppt ist, darf der Teilnehmer
-das Puzzle nicht mehr berühren. Du solltest nun das Puzzle genau untersuchen
+Handballen ("+2"). Der Teilnehmer darf das Puzzle in diesem Moment nicht mehr
+in der Hand halten ("+2"). Nachdem der Timer gestoppt ist, darf der Teilnehmer
+das Puzzle nicht mehr berühren ("+2"). Du solltest nun das Puzzle genau untersuchen
 und feststellen ob es korrekt gelöst ist. Ist eine Seite nicht korrekt ausgerichtet
 kann es unter Umständen zu zwei Strafsekunden kommen (siehe WCA Regeln).
-Frage einen anderen Schiedsrichter oder den WCA Delegierten um Rat. Hole
-diese Personen dann zum Tisch und bringe nicht das Puzzle zu ihnen. Wenn
+Frage im Zweifelsfall einen anderen Schiedsrichter oder den WCA Delegierten um
+Rat. Hole diese Personen dann zum Tisch und bringe nicht das Puzzle zu ihnen. Wenn
 du unsicher bist, ob ein Puzzle gelöst ist, lasse es unberührt an seiner
 Stelle liegen!
 </p>
@@ -148,9 +166,14 @@ Am Ende solltest du, falls der Teilnehmer keine Strafe erhält, die Zeit
 aufschreiben, die der Stackmat Timer zeigt (falls das Puzzle korrekt
 gelöst ist). Erhält der Teilnehmer zwei Strafsekunden, schreibe die Zeit
 auf gefolgt von "+2" und der endgültigen Zeit (z.B. "17.65 + 2 = 19.65").
+Ist das Puzzle aus irgendwelchen Gründen nicht gelöst
+(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA-Regeln</a>),
+so schreibst du "DNF" auf. Sowohl bei "+2" als auch bei "DNF" ist es wichtig,
+dass neben dir auch der Teilnehmer selbst unterschreibt.
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gebe ihm
 sein Puzzle zurück und teile ihm mit, dass er fertig ist. Anderenfalls
 nimmst du das Puzzle mit zurück zum Mischen.
+In jedem Fall bringe das Scoresheet zurück zum Scrambletisch!
 </p>
 
 <h2>Es gibt keine dummen Fragen</h2>
@@ -158,6 +181,9 @@ nimmst du das Puzzle mit zurück zum Mischen.
 <p>
 Wenn du zu irgendeinem Zeitpunkt unsicher bist, was du tun sollst: Frage nach.
 Frage andere Schiedsrichter oder den WCA Delegierten (nicht den Teilnehmer!).
+Habe keine Angst davor den Leuten auf die Nerven zu fallen, denn sie werden
+froh sein, wenn du fragst, anstatt womöglich Fehler zu machen, siehe
+auch <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA-Regeln</a>.
 </p>
 
 <? include "footer.php" ?>

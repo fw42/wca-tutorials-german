@@ -2,11 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <title><?=$title?></title>
+  <title>Speedcubing Competition Anleitung</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Vi Improved, http://www.vim.org/" />
   <meta content="Florian Weingarten" name="author" />
   <meta http-equiv="content-language" content="de" />
+  <meta name="keywords" content="Rubiks Cube Competition Speedcubing WCA World Cube Association Zauberwürfel Meisterschaft Speedsolving Anleitung Schiedsrichter Teilnehmer selbst veranstalten organisieren Tipps Hilfe Regeln Regulations Orga" />
 
   <style type="text/css">
     body {

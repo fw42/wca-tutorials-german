@@ -38,8 +38,9 @@ Verfügung und stellt die Regeln für den Ablauf einer Competition bereit.
 Diese Regeln solltest du daher kennen um nicht Gefahr zu laufen
 disqualifiziert zu werden, weil du z.B. den Timer nicht richtig startest
 oder zur richtigen Zeit nicht am richtigen Ort bist. Du musst die
-Regeln natürlich nicht auswendig kennen, aber du solltest unbedingt
-zumindest einmal aufmerksam die gesamten Regeln lesen. Falls du
+Regeln natürlich nicht komplett auswendig kennen, aber du solltest unbedingt
+einmal aufmerksam die gesamten Regeln lesen, bevor du zu deniem ersten
+Wettkampf gehst. Falls du
 Fragen hast oder einzelne Teile der Regeln nicht verstehst, so solltest
 du unbedingt den Veranstalter oder andere Cuber vor der Competition
 oder während der Competition (aber auf jeden Fall bevor du dran bist)
@@ -55,13 +56,23 @@ http://cube.hackvalue.de/wca/</a>.
 
 <p>
 Alle Meisterschaften müssen über eine Webseite verfügen auf der wichtige
-Informationen angekündigt werden. Dort ist auch immer ein Anmeldeformular,
-bei dem du dich anmelden solltest. Bei vielen Competitions ist es zwar
+Informationen angekündigt werden. Eine Liste aller bereits angekündigten
+Competitions findest du hier:
+<a href="http://www.worldcubeassociation.org/results/competitions.php">
+http://www.worldcubeassociation.org/results/competitions.php</a>.
+Dort sind auch die Websites, soweit vorhanden, eingetragen. Jede Webseite
+enthält auch immer ein Anmeldeformular,
+mit dem du dich anmelden solltest. Bei vielen Competitions ist es zwar
 auch möglich sich vor Ort noch anzumelden, aber die Organisatoren werden
-dankbar sein, wenn sie vorher bereits wissen, mit wievielen Personen
-sie rechnen müssen. Melde dich daher so früh wie möglich an. Falls du
-doch keine Zeit oder Lust hast, melde dich rechtzeitig wieder ab! Wenn
-du dich z.B. für ein einzelnes Event nach- oder abmelden möchtest,
+dankbar sein, wenn sie vorher bereits wissen, mit wie vielen Personen
+sie rechnen müssen. Melde dich daher so früh wie möglich an.
+<b>Sehr wichtig:</b>
+Falls du doch keine Zeit oder Lust hast, melde dich rechtzeitig wieder ab!
+Bedenke, dass die Organisatoren die Eintrittsgelder meist so planen, dass
+sie durch die angemeldeten Teilnehmer die Organisationskosten wieder
+hereinbekommen. Bleiben also zu viele angemeldete Teilnehmer fern, so
+machen die Organisatoren Verluste. Wenn
+du dich nur für ein einzelnes Event nach- oder abmelden möchtest,
 melde dich per E-Mail beim Organisator.
 </p>
 
@@ -73,22 +84,26 @@ du zufrieden bist? Auf einer Competition sieht das meistens anders aus.
 Du bist nervös, deine Hände zittern und dir gucken unter Umständen
 50 Leute oder mehr ganz genau mit kritischen Blicken auf die Finger.
 Um keine bösen Überraschungen zu erleben, solltest du zuhause üben vor
-vielen Leute zu lösen, z.B. vor Freunden, der Familie oder in der
-Öffentlichkeit, z.B. in der Schule oder in der Stadt.
+vielen Leute zu lösen, z.B. vor Freunden oder der Familie.
+Auch Cuben in der Öffentlichkeit, z.B. in der Schule, in der Stadt,
+im Bus oder in der Bahn sind ein gutes Training um Nervosität zu vermeiden. 
 </p>
 
 <h2>Zustand deiner Puzzle</h2>
 
 <p>
-Sind die Sticker auf deinem Cube sehr abgenutzt so solltest du
+Sind die Sticker auf deinem Cube sehr abgenutzt, so solltest du
 in Betracht ziehen diese gegen neue zu ersetzen (z.B. von
+<a href="http://www.cubikon.de/">Cubikon</a> oder 
 <a href="http://www.cubesmith.com/">Cubesmith</a>).
+Besonders beim Blindlösen kann es sonst unter Umständen passieren,
+dass du mit deinem Puzzle nicht teilnehmen darfst.
 </p>
 
 <h2>Plane deinen Tag</h2>
 
 <p>
-Die meisten Competitions stellen im Vorraus einen Zeitplan auf ihrer
+Die meisten Competitions stellen im Voraus einen Zeitplan auf ihrer
 Webseite zur Verfügung. Schaue dir an, wann die Events, für die du angemeldet
 bist, stattfinden und sei pünktlich zum Anfang jedes Events in der Nähe.
 Wer aufgerufen wird, aber gerade draußen eine Zigarette raucht oder auf dem
@@ -98,18 +113,24 @@ Klo sitzt, kann schnell disqualifiziert werden.
 <h2>Warte bis dein Name aufgerufen wird</h2>
 
 <p>
-Teilnehmer werden normalerweise in Gruppen eingeteilt. Nur weil du für ein
-Event angemeldet bist, heisst das daher noch nicht unbedingt, dass du auch
-sofort an der Reihe bist. Am Anfang des Events werden daher die Leute
+Teilnehmer werden normalerweise in Gruppen, meist zwei, eingeteilt.
+Nur weil du für ein Event angemeldet bist, heißt das daher noch
+nicht unbedingt, dass du auch
+sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
 Name dabei ist. Falls ja, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
-aufgerufen wird bist du in der nächsten Gruppe. Von allen Teilnehmern,
+aufgerufen wird, bist du in einer der nächsten Gruppen. Von allen Teilnehmern,
 die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
 sind, wird erwartet, dass sie als Schiedsrichter und/oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
 Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du
 das <a href="judging.php">Judging Tutorial</a> lesen.
+Sollte dein Name auch in der letzten Gruppe nicht aufgerufen werden,
+so melde dich umgehend beim Scrambling Tisch. Auch Organisatoren sind
+nur Menschen, und so kann es unter Umständen schon mal passieren, dass
+dein Teilnehmerzettel bei einem Event vergessen wurde oder verloren
+gegangen ist.
 </p>
 
 <h2>Du wurdest aufgerufen</h2>
@@ -118,7 +139,7 @@ das <a href="judging.php">Judging Tutorial</a> lesen.
 Jetzt geht es los. Dein Name wurde aufgerufen. Es steht ein
 Schiedsrichter mit deinem gemischten Puzzle beim Wartebereich um
 dich abzuholen. Gehe zu ihm und lass dir weitere Anweisungen geben.
-Sage ihm, dass das deine erste Competition ist und dass er dir bitte
+Wenn nötig, sage ihm, dass das deine erste Competition ist und dass er dir bitte
 noch einmal erklären soll, wie es jetzt genau weiter geht.
 Mehr findest du im <a href="solve.php">Puzzle Lösen Tutorial</a>.
 </p>
@@ -128,13 +149,13 @@ Mehr findest du im <a href="solve.php">Puzzle Lösen Tutorial</a>.
 <p>
 Normalerweise löst jeder Teilnehmer ein Puzzle fünf mal (drei mal für
 bestimmte Puzzle). Nachdem du dein Puzzle gelöst hast, musst du zurück
-in den Wartebereich. Nimm dein Puzzle nicht mit sondern gebe es dem
+in den Wartebereich. Nimm dein Puzzle nicht mit, sondern gib es dem
 Schiedsrichter, damit dieser es erneut mischen lassen kann.
 </p>
 
 <p>
 In einem "kombinierten Finale" kann es sein, dass du nicht alle fünf
-Solves machen darfst sondern nur einen, zwei oder drei. Anhand deiner
+Solves machen darfst, sondern nur einen oder zwei. Anhand deiner
 besten Zeit wird dann entschieden, ob du alle fünf machen darfst.
 Falls nicht, bist du fertig und darfst den Wartebereich verlassen und
 auf das nächste Event warten.

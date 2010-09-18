@@ -303,7 +303,7 @@ beim organisieren einer Meisterschaft beachten sollte.
  </li>
  <li>
   <b>Stifte</b><br/>
-  Um die Ergebnisse zu notieren sollte bei jedem Timer mindesten ein
+  Um die Ergebnisse zu notieren sollte bei jedem Timer mindestens ein
   Kugelschreiber bereit liegen. Halte genug Ersatzkulis bereit.
   (Ein nettes Extra sind Kugelschreiber mit eigenem Logo o.ä.)
  </li>
@@ -314,7 +314,7 @@ beim organisieren einer Meisterschaft beachten sollte.
 <p>
 <b>F:</b> Wie kann man abschätzen, was die Veranstaltung kosten wird? <br/>
 <b>A:</b> Das teuerste wird vermutlich der Raum. Wenn du den Raum irgendwie
-umsonst bekommen kannst (Gemeindezentrm der Kirche? Jugendzentrum?
+umsonst bekommen kannst (Gemeindezentrum der Kirche? Jugendzentrum?
 Universität? Schule?) dann wird es nicht so teuer. Vergiss aber nicht
 an andere variable Kosten wie z.B. das Essen und die Getränke zu denken.
 </p>
@@ -322,7 +322,7 @@ an andere variable Kosten wie z.B. das Essen und die Getränke zu denken.
 <p>
 <b>F:</b> Wie bezahlt man das alles? <br/>
 <b>A:</b> Normalerweise kann man die Competition gut so planen, dass
-man bei Null rauskommt. Falls nicht, solltest du dich um sponsoren
+man bei Null rauskommt. Falls nicht, solltest du dich um Sponsoren
 bemühen (z.B. Jumbo Spiele oder Cubikon). Es besteht aber natürlich
 ein Restrisiko, dass du auf Kosten sitzen bleibst (z.B. weil
 weniger Personen erscheinen als erwartet).
