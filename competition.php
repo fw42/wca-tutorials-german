@@ -71,8 +71,10 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Scrambles</b><br/>
-  Auf der WCA Webseite findest du die Programme zum Generieren der
-  Scrambles. Spreche rechtzeitig mit dem Delegate ab, ob du die
+  Auf der WCA Webseite findest du die
+  <a href="http://cube.hackvalue.de/wca/#scrambling">Programme zum
+  Generieren der Scrambles</a>.
+  Spreche rechtzeitig mit dem Delegate ab, ob du die
   Scrambles selbst generieren und drucken musst oder ob er sie bereit
   stellt. Die Scrambles müssen unbedingt streng geheim gehalten werden
   und sollten in einem verschlossenen Umschlag aufbewahrt werden.
@@ -90,13 +92,16 @@ beim Organisieren beachten sollte.
  <li>
   <b>Papier</b><br/>
   Du wirst sowohl eine Menge normales Druckerpapier als auch dickeres
-  Papier für die Urkunden besorgen müssen. Der Delegate (dazu später
-  mehr) ist ein sehr wichtiger Ansprechpartner für viele dieser Dinge.
-  Er bringt meistens die Timer, Displays, Stoppuhren und teilweise
-  auch Batterien mit. Sprich dies frühzeitig mit ihm ab!
+  Papier für die Urkunden besorgen müssen.
  </li>
 </ul>
 
+<p>
+ Der Delegate (dazu später
+ mehr) ist ein sehr wichtiger Ansprechpartner für viele dieser Dinge.
+ Er bringt meistens die Timer, Displays, Stoppuhren und teilweise
+ auch Batterien mit. Sprich dies frühzeitig mit ihm ab!
+</p>
 
 <h2>Loslegen</h2>
 
@@ -107,51 +112,6 @@ beim Organisieren beachten sollte.
   notwendig die WCA Regeln komplett und sorgfältig gelesen zu haben.
   Sie enthalten viele wichtige Infos und Richtlinien zur Organisation
   eines Turniers!
- </li>
- <li>
-  <b>Kapital</b><br/>
-  Bedenke stets, dass du alle Ausgaben für die Organisation vorstrecken
-  musst, bis das Geld in Form der Eintrittsgebühren durch die Teilnehmer
-  wieder hereinkommt. Es ist sehr ratsam sich direkt am Anfang einen
-  Finanzplan zu erstellen in dem man alle Kosten und die kalkulierten
-  Einnahmen einträgt.
- </li>
- <li>
-  <b>Besuche andere Competitions</b><br/>
-  Eine Competition kann man nur organisieren, wenn man weiß, was das ist.
-  Bevor du also selbst etwas planst, solltest du mindestens auf zwei bis
-  drei Competitions gewesen sein und dir alles sehr
-  genau angeschaut haben. Achte vor allem darauf, welche Aufgaben das
-  Organisationsteam übernimmt. Sprich mit den Organisatoren, frag sie,
-  welche Probleme sie bei der Organisation hatten, lass dir Tipps geben.
-  Ein Textdokument kann nie eigene Erfahrung ersetzen.
- </li>
- <li>
-  <b>Stell sicher, dass genug Leute Interesse haben</b><br/>
-  Eine gute Competition sollte mindestens 20 Teilnehmer haben
-  (und muss mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
-  werden). Erkundige dich vorher, z.B. in Internetforen und deinem
-  Bekanntenkreis, ob überhaupt Interesse an einer Competition
-  in deinem Ort besteht.
- </li>
- <li>
-  <b>Wähle ein Wochenende, an dem möglichst viele Personen können</b><br/>
-  Erkundige dich, welche anderen Competitions noch stattfinden. Es ist
-  wenig sinnvoll zwei deutsche Competitions an ein und dem selben
-  Wochenende zu veranstalten. Frage in der Community, z.B. in Internetforen,
-  welche Wochenenden bevorzugt werden.
- </li>
- <li>
-  <b>Suche einen guten Raum</b><br/>
-  Ein guter Raum ist groß genug für die Anzahl der Personen, die du
-  annehmen möchtest. Es sollte leicht möglich sein den Bereich
-  in einen Zuschauerbereich, einen Wartebereich und einen
-  Wettbewerbsbereich einzuteilen.
-  Sehr wichtig ist gutes Licht im geplanten Wettbewerbsbereich! Ebenso
-  sollte der Raum relativ leise und rauchfrei sein. Von Vorteil ist
-  natürlich auch, wenn Essen und Trinken in dem Raum nicht verboten sind.
-  Erfrage zu welchen Terminen du den Raum reservieren könntest, leg dich
-  jedoch besser nicht fest, bevor du Kontakt zur WCA aufgenommen hast.
  </li>
  <li>
   <b>Suche einen WCA Delegate</b><br/>
@@ -169,6 +129,51 @@ beim Organisieren beachten sollte.
   Es ist sehr sinnvoll, den Delegate frühzeitig zu kontaktieren und
   während der gesamten Organisation mit ihm zusammen zu arbeiten. Er
   steht dir insbesondere für organisatorische Fragen gerne zur Verfügung.
+ </li>
+ <li>
+  <b>Kapital</b><br/>
+  Bedenke stets, dass du alle Ausgaben für die Organisation vorstrecken
+  musst, bis das Geld in Form der Eintrittsgebühren durch die Teilnehmer
+  wieder hereinkommt. Es ist sehr ratsam sich direkt am Anfang einen
+  Finanzplan zu erstellen in dem man alle Kosten und die kalkulierten
+  Einnahmen einträgt.
+ </li>
+ <li>
+  <b>Besuche andere Competitions</b><br/>
+  Eine Competition kann man nur organisieren, wenn man weiß, was das ist.
+  Bevor du also selbst etwas planst, solltest du mindestens auf zwei bis
+  drei Competitions gewesen sein und dir alles sehr
+  genau angeschaut haben. Achte vor allem darauf, welche Aufgaben das
+  Organisationsteam übernimmt. Sprich mit den Organisatoren, frage sie,
+  welche Probleme sie bei der Organisation hatten, lasse dir Tipps geben.
+  Ein Textdokument kann nie eigene Erfahrung ersetzen.
+ </li>
+ <li>
+  <b>Stelle sicher, dass genug Leute Interesse haben</b><br/>
+  Eine gute Competition sollte mindestens 20 Teilnehmer haben
+  (und muss mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
+  werden). Erkundige dich vorher, z.B. in Internetforen und deinem
+  Bekanntenkreis, ob überhaupt Interesse an einer Competition
+  in deinem Ort besteht.
+ </li>
+ <li>
+  <b>Wähle ein Wochenende, an dem möglichst viele Personen können</b><br/>
+  Erkundige dich, welche anderen Competitions noch stattfinden. Es ist
+  wenig sinnvoll zwei deutsche Competitions an ein und dem selben
+  Wochenende zu veranstalten. Frage in der Community, z.B. in Internetforen,
+  welche Wochenenden bevorzugt werden.
+ </li>
+ <li>
+  <b>Suche einen guten Raum</b><br/>
+  Ein guter Raum ist groß genug für die Anzahl an Personen, die du
+  annehmen möchtest. Es sollte leicht möglich sein den Raum
+  in einen Zuschauerbereich, einen Wartebereich und einen
+  Wettbewerbsbereich einzuteilen.
+  Sehr wichtig ist gutes Licht im geplanten Wettbewerbsbereich! Ebenso
+  sollte der Raum relativ leise und rauchfrei sein. Von Vorteil ist
+  natürlich auch, wenn Essen und Trinken in dem Raum nicht verboten sind.
+  Erfrage zu welchen Terminen du den Raum reservieren könntest, lege dich
+  jedoch besser nicht fest, bevor du Kontakt zur WCA aufgenommen hast.
  </li>
  <li>
   <b>Suche dir genug Hilfe</b><br/>
@@ -200,7 +205,7 @@ beim Organisieren beachten sollte.
   der Erstellung deines Zeitplans nach denen anderer Turniere mit
   ähnlicher Teilnehmeranzahl, wie du es planst. Diese wirst du auf den
   entsprechenden Webseiten finden. Spreche diesen Zeitplan mit dem WCA
-  Delegate ab und frag ihn, ob er deinen Zeitplan für realistisch hält
+  Delegate ab und frage ihn, ob er deinen Zeitplan für realistisch hält
   und ob er auch alle WCA Richtlinien erfüllt.
  </li>
  <li>
@@ -211,15 +216,15 @@ beim Organisieren beachten sollte.
   angeben. Praktisch ist auch, wenn sich die Teilnehmer direkt auf dieser
   Webseite anmelden können (damit du weißt, wie viele kommen). Allerdings
   stellt auch die WCA eine Anmeldefunktion zur Verfügung.
-  <b>Florian&nbsp;Weingarten</b> hat ein gut funktionierendes Competition
-  Website Tool programmiert und hostet aktuell die Webseiten der meisten
+  <b>Florian&nbsp;Weingarten</b> hat ein gut funktionierendes <i>Competition
+  Website Tool</i> programmiert und hostet aktuell die Webseiten der meisten
   deutschen Competitions. Falls du nicht weißt, wie man eine Webseite
   erstellt, melde dich bei ihm per E-Mail unter 
   <a href="mailto:flo@hackvalue.de">flo@hackvalue.de</a>.
  </li>
  <li>
   <b>Kontaktiere den Delegate erneut</b><br/>
-  Sobald du die letzten 3 Schritte erledigt hast, kontaktiere den
+  Sobald du die letzten drei Schritte erledigt hast, kontaktiere den
   Delegate erneut und teile ihm alle notwendigen Informationen mit.
   Dazu gehören:
   <ul>
@@ -230,7 +235,7 @@ beim Organisieren beachten sollte.
    <li>Link zur Webseite der Competition,</li>
    <li>Name der Organisatoren inkl. E-Mail Adresse,
        unter der die Organisatoren erreichbar sind,</li>
-   <li>Liste der veranstalteten Events</li>
+   <li>Liste der veranstalteten Events.</li>
   </ul>
   Der Delegate wird nun dem WCA Board von der Competition berichten
   damit diese in den nächsten Tagen offiziell angekündigt wird.
@@ -253,7 +258,7 @@ beim Organisieren beachten sollte.
   Scoresheets zu drucken, was viel Arbeit erspart!) 
  </li>
  <li>
-  <b>Installier die Scramble Programme</b><br/>
+  <b>Installiere die Scramble Programme</b><br/>
   Es kann passieren, dass du während der Competition zusätzliche Scrambles
   benötigst. Installiere dir daher die Scramble Programme
   (siehe <a href="http://cube.hackvalue.de/wca/#scrambling">WCA Regeln</a>)
@@ -268,8 +273,8 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Besorge Preise</b><br/>
-  Urkunden für die besten 3 Teilnehmer jeder Kategorie sind ein Muss.
-  Wenn du nicht selber eine Urkunde entwerfen möchtest, dann frag einfach
+  Urkunden für die besten drei Teilnehmer jeder Kategorie sind ein Muss.
+  Wenn du nicht selber eine Urkunde entwerfen möchtest, dann frage einfach
   den Delegate nach einer Vorlage.
   Pokale, Medaillen oder andere Preise sind optional, aber immer eine
   nette Geste. 
@@ -433,6 +438,14 @@ besorgen.
 aber die Anreisekosten zu übernehmen oder eine kostenlose
 Übernachtungsmöglichkeit sowie ein kleines Dankeschöngeschenk sind eine
 nette Geste.
+</p>
+
+<p>
+<b>F:</b> Kann ich nicht selbst Delegate meiner Competition sein? <br/>
+<b>A:</b> Nein, ein Delegate ist ein Vertreter der WCA. Um Delegate zu
+werden musst du bei der WCA bekannt sein und von einem anderen Delegate,
+der dich gut kennt, vorgeschlagen und empfohlen werden. Das geht nicht
+von heute auf morgen.
 </p>
 
 <? include "footer.php" ?>

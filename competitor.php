@@ -63,7 +63,7 @@ Informationen angekündigt werden. Eine Liste aller bereits angekündigten
 Competitions findest du hier:
 <a href="http://www.worldcubeassociation.org/results/competitions.php">
 http://www.worldcubeassociation.org/results/competitions.php</a>.
-Dort sind auch die Websites, soweit vorhanden, eingetragen. Jede Webseite
+Dort sind auch die Webseiten, soweit vorhanden, eingetragen. Jede Webseite
 enthält auch immer ein Anmeldeformular,
 mit dem du dich anmelden solltest. Bei vielen Competitions ist es zwar
 auch möglich sich vor Ort noch anzumelden, aber die Organisatoren werden
@@ -134,7 +134,7 @@ zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
 Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du
 das <a href="judging.php">Judging Tutorial</a> lesen.
 Sollte dein Name auch in der letzten Gruppe nicht aufgerufen werden,
-so melde dich umgehend beim Scrambling Tisch. Auch Organisatoren sind
+so melde dich umgehend beim Scrambletisch. Auch Organisatoren sind
 nur Menschen, und so kann es unter Umständen schon mal passieren, dass
 dein Teilnehmerzettel bei einem Event vergessen wurde oder verloren
 gegangen ist.
@@ -145,7 +145,7 @@ gegangen ist.
 <p>
 Jetzt geht es los. Dein Name wurde aufgerufen. Es steht ein
 Schiedsrichter mit deinem gemischten Puzzle beim Wartebereich um
-dich abzuholen. Gehe zu ihm und lass dir weitere Anweisungen geben.
+dich abzuholen. Gehe zu ihm und lasse dir weitere Anweisungen geben.
 Wenn nötig, sage ihm, dass das deine erste Competition ist und dass er dir bitte
 noch einmal erklären soll, wie es jetzt genau weiter geht.
 Mehr findest du im <a href="solve.php">Puzzle Lösen Tutorial</a>.
@@ -162,7 +162,7 @@ Schiedsrichter, damit dieser es erneut mischen lassen kann.
 
 <p>
 In einem "kombinierten Finale" kann es sein, dass du nicht alle fünf
-Solves machen darfst, sondern nur einen oder zwei. Anhand deiner
+Versuche machen darfst, sondern nur einen oder zwei. Anhand deiner
 besten Zeit wird dann entschieden, ob du alle fünf machen darfst.
 Falls nicht, bist du fertig und darfst den Wartebereich verlassen und
 auf das nächste Event warten.

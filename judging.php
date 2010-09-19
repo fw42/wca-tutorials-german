@@ -80,7 +80,7 @@ an der Reihe sind.
 Rufe laut und deutlich
 den Namen des Teilnehmers. Meldet er sich nicht, rufe erneut laut und
 deutlich. Meldet er sich immer noch nicht, bringe das Puzzle zurück,
-sag den Leuten am Scrambletisch kurz Bescheid
+sage den Leuten am Scrambletisch kurz Bescheid
 und nimm einen anderen Teilnehmer.
 </p>
 
@@ -110,7 +110,7 @@ herunter, wenn er dir deutlich signalisiert, dass er bereit ist. Viele Teilnehme
 senken den Kopf um sich einen Moment lang zu konzentrieren, was oft als
 Nicken fehlinterpretiert wird. Der Teilnehmer ist bereit, wenn er laut und
 deutlich sagt, dass er bereit ist. Nicht früher! Wenn du dir nicht ganz sicher
-bist, dann frag im Zweifel lieber noch einmal nach. Entferne nun die Abdeckung
+bist, dann frage im Zweifel lieber noch einmal nach. Entferne nun die Abdeckung
 vom Puzzle und starte deine Stoppuhr.
 </p>
 
@@ -132,7 +132,7 @@ Sobald deine Stoppuhr 12 Sekunden zeigt, sage laut und deutlich "Go".
 Sobald der Teilnehmer den Stackmat Timer startet, stoppst du deine
 Stoppuhr. Zeigt deine Stoppuhr weniger als 15 Sekunden, ist alles
 in Ordnung. Ist die Zeit größer als 15 Sekunden, aber kleiner als
-17 Sekunden, so erhält der Teilnehmer 2 Strafsekunden. Teile ihm das
+17 Sekunden, so erhält der Teilnehmer zwei Strafsekunden. Teile ihm das
 aber erst nach dem Solve mit. Ist die Zeit größer als 17 Sekunden
 so wird der Solve für ungültig erklärt ("DNF"). Brich den Solve ab,
 notiere "DNF" und lasse den Teilnehmer unterschreiben.
@@ -162,8 +162,11 @@ Wenn der Timer nicht korrekt
 startet (z.B. weil die grüne Lampe nicht an war), der Teilnehmer
 aber bereits angefangen hat zu lösen, solltest du den Hauptschiedsrichter
 oder den WCA Delegierten um Rat bitten.
+Der WCA Delegierte ist ein Vertreter der WCA, der dafür verantwortlich ist,
+dass alles nach den Regeln abläuft. Jeder WCA Wettbewerb hat mindestens
+einen WCA Delegate.
 Wenn du nicht weißt wer das ist oder ihn gerade nicht siehst,
-dann frag einfach am Scrambletisch nach.
+dann frage einfach am Scrambletisch nach.
 </p>
 
 <h2>Ende des Solves</h2>
@@ -175,7 +178,8 @@ Handballen ("+2"). Der Teilnehmer darf das Puzzle in diesem Moment nicht mehr
 in der Hand halten ("+2"). Nachdem der Timer gestoppt ist, darf der Teilnehmer
 das Puzzle nicht mehr berühren ("+2"). Du solltest nun das Puzzle genau untersuchen
 und feststellen ob es korrekt gelöst ist. Ist eine Seite nicht korrekt ausgerichtet
-kann es unter Umständen zu zwei Strafsekunden kommen (siehe WCA Regeln).
+kann es unter Umständen zu zwei Strafsekunden kommen (siehe
+<a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10</a> der WCA Regeln).
 Frage im Zweifelsfall einen anderen Schiedsrichter oder den WCA Delegierten um
 Rat. Hole diese Personen dann zum Tisch und bringe nicht das Puzzle zu ihnen. Wenn
 du unsicher bist, ob ein Puzzle gelöst ist, lasse es unberührt an seiner
@@ -190,7 +194,7 @@ aufschreiben, die der Stackmat Timer zeigt (falls das Puzzle korrekt
 gelöst ist). Erhält der Teilnehmer zwei Strafsekunden, schreibe die Zeit
 auf gefolgt von "+2" und der endgültigen Zeit (z.B. "17.65 + 2 = 19.65").
 Ist das Puzzle aus irgendwelchen Gründen nicht gelöst
-(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA Regeln</a>),
+(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10</a> der WCA Regeln),
 so schreibst du "DNF" auf. Sowohl bei "+2" als auch bei "DNF" ist es wichtig,
 dass neben dir auch der Teilnehmer selbst unterschreibt.
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gebe ihm
@@ -206,8 +210,7 @@ das Ergebnis notierst, zurück zum Scrambletisch!
 Wenn du zu irgendeinem Zeitpunkt unsicher bist, was du tun sollst: Frage nach.
 Frage andere Schiedsrichter oder den WCA Delegierten (nicht den Teilnehmer!).
 Habe keine Angst davor den Leuten auf die Nerven zu fallen, denn sie werden
-froh sein, wenn du fragst, anstatt womöglich Fehler zu machen, siehe
-auch <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10 der WCA Regeln</a>.
+froh sein, wenn du fragst, anstatt womöglich Fehler zu machen.
 </p>
 
 <? include "footer.php" ?>

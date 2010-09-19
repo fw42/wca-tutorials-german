@@ -22,7 +22,7 @@ http://aachen.speedcubing.com/</a>
 
 <p>
 Diese Anweisungen sollen dir dabei helfen deinen ersten
-offiziellen Solve erfolgreich durchzuführen. Für mehr
+offiziellen Versuch ("Solve") erfolgreich durchzuführen. Für mehr
 Informationen, siehe
 <a href="http://cube.hackvalue.de/wca/#speedsolving">Abschnitt A</a>
 der offiziellen WCA Regeln.
@@ -58,7 +58,7 @@ Puzzle entfernen. Du darfst das Puzzle nun in die Hand nehmen,
 allerdings darfst du noch nicht daran drehen. Nach 8 Sekunden wird
 der Schiedsrichter "8 seconds" sagen. Du solltest nun langsam
 zum Ende kommen und dich bereit machen. Nach 12 Sekunden sagt
-der Schiedsrichter "Go!". Denk dran, dass der Timer etwa
+der Schiedsrichter "Go!". Denke daran, dass der Timer etwa
 eine Sekunde benötigt um zu starten. Wenn du 15 Sekunden nachdem
 der Schiedsrichter die Abdeckung entfernt hat, noch nicht angefangen
 hast, erhältst du zwei Strafsekunden auf deine Zeit. Nach 17
@@ -67,8 +67,8 @@ Sekunden wird dein Versuch als "DNF" gewertet (siehe unten).
 
 <p>
 <b>Hinweis:</b> Du hast 15 Sekunden Zeit. Das heißt nicht, dass du
-diese 15 Sekunden nutzen musst. Wenn du nach 5 Sekunden bereit bist,
-darfst du auch nach 5 Sekunden schon anfangen.
+diese 15 Sekunden nutzen musst. Wenn du nach fünf Sekunden bereit bist,
+darfst du auch nach fünf Sekunden schon anfangen.
 </p>
 
 <h2>Den Timer starten</h2>
@@ -81,13 +81,13 @@ Timer legen. Es leuchtet eine rote Lampe. Lass die Hände so lange
 auf dem Timer bis auch die grüne Lampe leuchtet (etwa eine Sekunde).
 Jetzt kannst du anfangen. Sobald du die Hände runter nimmst, beginnt
 die Zeit zu laufen. Während des Solves blinken beide Lampen,
-lass dich davon nicht irritieren.
+lasse dich davon nicht irritieren.
 </p>
 
 <p>
 Achte darauf, dass du den Timer während des Lösens nicht berührst,
 da du diesen dadurch versehentlich stoppen könntest und dein Solve
-damit als DNF gewertet wird.
+damit als "DNF" gewertet wird.
 </p>
 
 <h2>Den Würfel lösen</h2>
@@ -100,10 +100,10 @@ ist er nicht lösbar. Du darfst das korrigieren indem du Teile erneut aus-
 und wieder richtig einbaust. Wenn du fertig bist mit Lösen, stoppe
 so schnell du kannst die Zeit. Der Schiedsrichter notiert deine Zeit.
 Falls der Würfel nicht gelöst ist, ist das Resultat ungültig ("DNF",
-"Did not Finish") oder es wird eine Strafzeit gegeben ("+2"). Erhältst du
-mehr als zwei DNFs so wird deine Durchschnittszeit ebenfalls "DNF" sein.
+"Did Not Finish") oder es wird eine Strafzeit gegeben ("+2"). Erhältst du
+mehr als zwei "DNF" so wird deine Durchschnittszeit ebenfalls "DNF" sein.
 In der Regel ist es daher
-immer besser eine schlechte Zeit zu haben als ein DNF. Überleg es dir also
+immer besser eine schlechte Zeit zu haben als ein "DNF". Überlege es dir also
 gut bevor du voreilig entscheidest, dass es sich nicht mehr lohnt, zu Ende zu
 lösen.
 </p>
