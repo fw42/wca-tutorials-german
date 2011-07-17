@@ -176,4 +176,8 @@ viel Spaß hat und locker drauf ist, wird gleichzeitig bessere Zeiten
 machen.
 </p>
 
+<p>
+Weiter zu <a href="solve.php"><b>Teil 2:</b> Puzzle Lösen</a>.
+</p>
+
 <? include "footer.php" ?>

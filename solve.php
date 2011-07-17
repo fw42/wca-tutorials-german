@@ -131,4 +131,8 @@ Aussage gegen Aussage und im Zweifelsfall zählt die des Schiedsrichters,
 nicht deine.
 </p>
 
+<p>
+Weiter zu <a href="judging.php"><b>Teil 3:</b> Judging Tutorial</a>.
+</p>
+
 <? include "footer.php" ?>
