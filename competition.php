@@ -118,7 +118,7 @@ beim Organisieren beachten sollte.
   Vertreter der WCA, einen so genannten "Delegate". In Deutschland sind
   dies momentan <b>Sébastien&nbsp;Auroux</b>
   (<a href="mailto:sebastien.auroux@gmx.net">sebastien.auroux@gmx.net</a>)
-  aus Paderborn und <b>Björn Korbanka</b>
+  aus Paderborn und <b>Björn&nbsp;Korbanka</b>
   (<a href="mailto:asdfasdfasdfasdf@asdfasdfasdfasdf.asdfas">sebastien.auroux@gmx.net</a>)
   aus Regensburg. Schreibe einen von beiden an, beschreibe ihm was du planst
    und frage ob er an deinem Wunschtermin
