@@ -119,7 +119,7 @@ beim Organisieren beachten sollte.
   dies momentan <b>Sébastien&nbsp;Auroux</b>
   (<a href="mailto:sebastien.auroux@gmx.net">sebastien.auroux@gmx.net</a>)
   aus Paderborn und <b>Björn&nbsp;Korbanka</b>
-  (<a href="mailto:asdfasdfasdfasdf@asdfasdfasdfasdf.asdfas">sebastien.auroux@gmx.net</a>)
+  (<a href="mailto:Bjoern-korbanka@web.de">Bjoern-korbanka@web.de</a>)
   aus Regensburg. Schreibe einen von beiden an, beschreibe ihm was du planst
    und frage ob er an deinem Wunschtermin
   Zeit hat. Falls er keine Zeit hat, frage einen anderen Delegate,
@@ -263,7 +263,7 @@ beim Organisieren beachten sollte.
   <b>Oder: Bereite cubecomps.com vor</b><br/>
   In den letzten Jahren ist es immer üblicher geworden, die gut funktionierende
   Webseite von <b>Luis&nbsp;Iáñez</b> <a href="http://www.cubecomps.com">www.cubecomps.com</a>
-  zu verwenden. Sie bietet ein schnelleres Eingeben, leichteres Ausdrucken und 
+  zu verwenden. Sie bietet eine schnellere Eingabe, leichteres Ausdrucken und 
   bessern Überblick über die Ergebnisse. Jedoch brauchst du einen Internetzugang
   um die Ergebnisse einzutragen. Erkundige dich vorab bei deinem Vermieter ob dies möglich ist,
   oder frage deinen Delegate ob er dir einen Hotspot anbieten kann. Falls es sicher ist,
