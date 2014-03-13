@@ -43,8 +43,8 @@ beim Organisieren beachten sollte.
   <b>Computer und Drucker</b><br/>
   Ein Computer, am besten Laptop, sowie ein Farbdrucker sind unbedingt
   nötig für eine Competition. Am PC wirst du die Ergebnisse in das
-  Excel Sheet eintragen müssen. Mit dem Drucker druckst du Ergebnisse,
-  Urkunden und andere Dinge. Die Ergebnisse solltest du im Raum
+  Excel Sheet, bzw. cubecomps.com, eintragen müssen. Mit dem Drucker druckst du 
+  Ergebnisse, Urkunden und andere Dinge. Die Ergebnisse solltest du im Raum
   aushängen, damit die Leute
   nicht ständig am PC nach ihrer Platzierung fragen.
  </li>
@@ -66,8 +66,7 @@ beim Organisieren beachten sollte.
  <li>
   <b>Abdeckungen</b><br/>
   Um die gemischten Puzzle zu verdecken, sollte irgendeine Art von
-  Abdeckung vorhanden sein, z.B. Plastikdeckel oder Papierblätter.
-  Zur Not ist es auch okay, hierfür die Scoresheets zu benutzen.
+  Abdeckung vorhanden sein, z.B. Plastikdeckel.
  </li>
  <li>
   <b>Scrambles</b><br/>
@@ -82,7 +81,7 @@ beim Organisieren beachten sollte.
  <li>
   <b>Scoresheets</b><br/>
   Dies sind Zettel, auf denen die Ergebnisse eines Teilnehmers in einem
-  Event eingetragen werden und können aus der Excel Datei generiert werden.
+  Event eingetragen werden und können aus der Excel Datei, bzw. cubecomps.com, generiert werden.
  </li>
  <li>
   <b>Stifte</b><br/>
@@ -100,7 +99,7 @@ beim Organisieren beachten sollte.
  Der Delegate (dazu später
  mehr) ist ein sehr wichtiger Ansprechpartner für viele dieser Dinge.
  Er bringt meistens die Timer, Displays, Stoppuhren und teilweise
- auch Batterien mit. Sprich dies frühzeitig mit ihm ab!
+ auch Batterien und Abdeckkappen mit. Sprich dies frühzeitig mit ihm ab!
 </p>
 
 <h2>Loslegen</h2>
@@ -116,10 +115,12 @@ beim Organisieren beachten sollte.
  <li>
   <b>Suche einen WCA Delegate</b><br/>
   Jede offizielle WCA Competition benötigt mindestens einen offiziellen
-  Vertreter der WCA, einen so genannten "Delegate". In Deutschland ist
-  das momentan <b>Sébastien&nbsp;Auroux</b>
+  Vertreter der WCA, einen so genannten "Delegate". In Deutschland sind
+  dies momentan <b>Sébastien&nbsp;Auroux</b>
   (<a href="mailto:sebastien.auroux@gmx.net">sebastien.auroux@gmx.net</a>)
-  aus Aachen. Schreibe ihn an, beschreibe ihm was du planst
+  aus Paderborn und <b>Björn Korbanka</b>
+  (<a href="mailto:asdfasdfasdfasdf@asdfasdfasdfasdf.asdfas">sebastien.auroux@gmx.net</a>)
+  aus Regensburg. Schreibe einen von beiden an, beschreibe ihm was du planst
    und frage ob er an deinem Wunschtermin
   Zeit hat. Falls er keine Zeit hat, frage einen anderen Delegate,
   z.B. <b>Ron&nbsp;van&nbsp;Bruchem</b>
@@ -133,7 +134,8 @@ beim Organisieren beachten sollte.
  <li>
   <b>Kapital</b><br/>
   Bedenke stets, dass du alle Ausgaben für die Organisation vorstrecken
-  musst, bis das Geld in Form der Eintrittsgebühren durch die Teilnehmer
+  musst, solange du kein PayPal-Vorkassesystem verwendest, bis das Geld 
+  in Form der Eintrittsgebühren durch die Teilnehmer
   wieder hereinkommt. Es ist sehr ratsam sich direkt am Anfang einen
   Finanzplan zu erstellen in dem man alle Kosten und die kalkulierten
   Einnahmen einträgt.
@@ -258,6 +260,17 @@ beim Organisieren beachten sollte.
   Scoresheets zu drucken, was viel Arbeit erspart!) 
  </li>
  <li>
+  <b>Oder: Bereite cubecomps.com vor</b><br/>
+  In den letzten Jahren ist es immer üblicher geworden, die gut funktionierende
+  Webseite von <b>Luis&nbsp;Iáñez</b> <a href="http://www.cubecomps.com">www.cubecomps.com</a>
+  zu verwenden. Sie bietet ein schnelleres Eingeben, leichteres Ausdrucken und 
+  bessern Überblick über die Ergebnisse. Jedoch brauchst du einen Internetzugang
+  um die Ergebnisse einzutragen. Erkundige dich vorab bei deinem Vermieter ob dies möglich ist,
+  oder frage deinen Delegate ob er dir einen Hotspot anbieten kann. Falls es sicher ist,
+  dass du Internetzugang haben wirst, kannst du entweder Luis über <a href="https://www.facebook.com/cubecomps">Facebook</a> kontaktieren,
+  oder deinen Delegate nach seiner E-Mail Adresse fragen.
+ </li>
+ <li>
   <b>Installiere die Scramble Programme</b><br/>
   Es kann passieren, dass du während der Competition zusätzliche Scrambles
   benötigst. Installiere dir daher die Scramble Programme
@@ -287,7 +300,7 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Lerne die WCA Regeln</b><br/>
-  Der WCA Delegierte kennt alle Regeln perfekt, aber auch der Organisator
+  Der WCA Delegate kennt alle Regeln perfekt, aber auch der Organisator
   sollte ausreichend vertraut sein und die gesamten Regeln
   aufmerksam durchgearbeitet und verstanden haben. Sollten einzelne
   Teile unklar sein, frage den WCA Delegate, ob er sie genauer erklären
@@ -305,7 +318,8 @@ beim Organisieren beachten sollte.
   möglichst vielen Internetforen deine Competition ankündigen
   (z.B. <a href="http://www.speedcubers.de/">speedcubers.de</a>,
   <a href="http://www.speedcube.de/">speedcube.de</a> und
-  <a href="http://www.speedsolving.com/">speedsolving.com</a>). Mache
+  <a href="http://www.speedsolving.com/">speedsolving.com</a>). Außerdem
+  könntest du eine Facbook Gruppe für deine Competition erstellen. Mache
   an so vielen Stellen wie möglich Werbung um möglichst viele
   Teilnehmer und Zuschauer anzulocken.
  </li>
@@ -352,7 +366,7 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Ergebnisse eintragen</b><br/>
-  Suche dir einen Helfer, der sich mit Microsoft Excel auskennt und
+  Suche dir einen Helfer, der sich mit Microsoft Excel, bzw. der cubecomps.com Webseite auskennt und
   der die Ergebnisse eintragen kann. Das ist ein Fulltime Job! Es wird
   fast während der gesamten Competition
   jemand am PC sitzen müssen und Ergebnisse eintragen,
@@ -378,7 +392,7 @@ beim Organisieren beachten sollte.
   Überlege dir, wie du deine Competition von anderen Competitions
   unterscheiden kannst und wie du dich hervorheben kannst. Z.B. durch
   besondere und seltene Events, durch besonders gutes Essen, besondere
-  Preisregelungen (z.B. "alle Newcomer dürfen umsonst rein") oder andere
+  Preisregelungen (z.B. "alle Newcomer bekommen freien Eintritt") oder andere
   Dinge.
  </li>
 </ul>
@@ -409,7 +423,7 @@ angemeldeten Teilnehmer deckst und sparst einen eventuellen
 <p>
 <b>F:</b> Woher weiß man wie viele Leute ungefähr kommen? <br/>
 <b>A:</b> Schaue dir an, wie gut Competitions in deiner Nähe normalerweise
-besucht sind. Spreche mit der Community. Starte Umfragen in Internet Foren.
+besucht sind. Sprich mit der Community. Starte Umfragen in Internet Foren.
 Behalte im Hinterkopf, dass so gut wie nie alle Leute erscheinen, die
  angemeldet sind, dafür aber auch oft Zuschauer oder Gäste unangemeldet
 aufkreuzen. <br/>
