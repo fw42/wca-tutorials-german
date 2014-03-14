@@ -122,8 +122,8 @@ Teilnehmer werden normalerweise in Gruppen, meist zwei, eingeteilt.
 Nur weil du für ein Event angemeldet bist, heißt das daher noch
 nicht unbedingt, dass du auch
 sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
-aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
-Name dabei ist.
+aufgerufen, die zur momentanen Gruppe gehören. Außerdem werden neben dein Zeitplänen
+meistens noch Gruppenpläne ausgehängt. Achte darauf, ob dein Name aufgerufen wird.
 Falls ja, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
 aufgerufen wird, bist du in einer der nächsten Gruppen.
@@ -161,7 +161,7 @@ Schiedsrichter, damit dieser es erneut mischen lassen kann.
 </p>
 
 <p>
-In einem "kombinierten Finale" kann es sein, dass du nicht alle fünf
+In einer "kombinierten Runde" kann es sein, dass du nicht alle fünf
 Versuche machen darfst, sondern nur einen oder zwei. Anhand deiner
 besten Zeit wird dann entschieden, ob du alle fünf machen darfst.
 Falls nicht, bist du fertig und darfst den Wartebereich verlassen und
