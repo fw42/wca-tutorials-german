@@ -58,7 +58,7 @@ Puzzle entfernen. Du darfst das Puzzle nun in die Hand nehmen,
 allerdings darfst du noch nicht daran drehen. Nach 8 Sekunden wird
 der Schiedsrichter "8 seconds" sagen. Du solltest nun langsam
 zum Ende kommen und dich bereit machen. Nach 12 Sekunden sagt
-der Schiedsrichter "Go!". Denke daran, dass der Timer etwa
+der Schiedsrichter "12 seconds". Denke daran, dass der Timer etwa
 eine Sekunde benötigt um zu starten. Wenn du 15 Sekunden nachdem
 der Schiedsrichter die Abdeckung entfernt hat, noch nicht angefangen
 hast, erhältst du zwei Strafsekunden auf deine Zeit. Nach 17
@@ -116,7 +116,7 @@ Wenn das Puzzle gelöst ist, stoppe die Zeit mit den flachen Handflächen
 dem Timer und "tippe" ihn nicht nur an, denn sonst könnte er nicht korrekt
 stoppen. Wenn du die Zeit stoppst, darfst du den
 Würfel nicht berühren und auch danach auf keinen Fall anfassen bevor
-der Schiedsrichter es tut.
+der Schiedsrichter fest gestellt hat, ob der Würfel korrekt gelöst ist und dir ein "OK" gibt.
 </p>
 
 <h2>Warten</h2>
@@ -128,7 +128,16 @@ bevor der Schiedsrichter dir sein OK signalisiert.
 Überprüfe genau, was der Schiedsrichter
 aufschreibt. Falls er die falsche Zeit aufschreibt, steht es hinterher
 Aussage gegen Aussage und im Zweifelsfall zählt die des Schiedsrichters,
-nicht deine.
+nicht deine. Auchte auch daruaf, dass alle Ziffern eindeutig lesbar sind, da sonst falsche
+Zeiten eingetragen werden könnten. Bitte deinen Judge im Zweifelsfall darum deine Zeit
+noch ein mal deutlicher aufzuschreiben.
+</p>
+
+<h2>Unterschreiben</h2>
+
+<p>
+Wenn dein Schiedsrichtiger deine Zeit richtig und leserlich aufgeschrieben hast,
+musst du noch unterschreiben, und damit bezeugen, dass alles richtig aufgeschrieben wurde.
 </p>
 
 <p>
