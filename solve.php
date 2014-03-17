@@ -24,7 +24,7 @@ http://aachen.speedcubing.com/</a>
 Diese Anweisungen sollen dir dabei helfen deinen ersten
 offiziellen Versuch ("Solve") erfolgreich durchzuführen. Für mehr
 Informationen, siehe
-<a href="http://cube.hackvalue.de/wca/#speedsolving">Abschnitt A</a>
+<a href="https://www.worldcubeassociation.org/regulations/translations/german/#article-A-speedsolving">Abschnitt A</a>
 der offiziellen WCA Regeln.
 </p>
 
@@ -124,11 +124,11 @@ der Schiedsrichter fest gestellt hat, ob der Würfel korrekt gelöst ist und dir
 <p>
 Der Schiedsrichter wird nun den Würfel inspizieren und entscheiden ob er
 korrekt gelöst ist. Unter gar keinen Umständen darfst du den Würfel anfassen,
-bevor der Schiedsrichter dir sein OK signalisiert.
+bevor der Schiedsrichter dir sein OK signalisiert!
 Überprüfe genau, was der Schiedsrichter
 aufschreibt. Falls er die falsche Zeit aufschreibt, steht es hinterher
 Aussage gegen Aussage und im Zweifelsfall zählt die des Schiedsrichters,
-nicht deine. Auchte auch daruaf, dass alle Ziffern eindeutig lesbar sind, da sonst falsche
+nicht deine. Auchte auch darauf, dass alle Ziffern eindeutig lesbar sind, da sonst falsche
 Zeiten eingetragen werden könnten. Bitte deinen Judge im Zweifelsfall darum deine Zeit
 noch ein mal deutlicher aufzuschreiben.
 </p>
