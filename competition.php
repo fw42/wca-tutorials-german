@@ -120,13 +120,8 @@ beim Organisieren beachten sollte.
   (<a href="mailto:sebastien.auroux@gmx.net">sebastien.auroux@gmx.net</a>)
   aus Paderborn und <b>Björn&nbsp;Korbanka</b>
   (<a href="mailto:Bjoern-korbanka@web.de">Bjoern-korbanka@web.de</a>)
-  aus Regensburg. Schreibe einen von beiden an, beschreibe ihm was du planst
-   und frage ob er an deinem Wunschtermin
-  Zeit hat. Falls er keine Zeit hat, frage einen anderen Delegate,
-  z.B. <b>Ron&nbsp;van&nbsp;Bruchem</b>
-  (<a href="mailto:ron@speedcubing.com">ron@speedcubing.com</a>) aus
-  den Niederlanden. Eine Liste aller WCA Delegierten gibt es auf
-  der Webseite der WCA: <a href="http://www.worldcubeassociation.org/node/316">http://www.worldcubeassociation.org/node/316</a>.
+  aus Regensburg. Schreibe am besten beide an, beschreibe was du planst 
+  und sprich mögliche Termine mit ihnen ab. 
   Es ist sehr sinnvoll, den Delegate frühzeitig zu kontaktieren und
   während der gesamten Organisation mit ihm zusammen zu arbeiten. Er
   steht dir insbesondere für organisatorische Fragen gerne zur Verfügung.
@@ -153,7 +148,7 @@ beim Organisieren beachten sollte.
  <li>
   <b>Stelle sicher, dass genug Leute Interesse haben</b><br/>
   Eine gute Competition sollte mindestens 20 Teilnehmer haben
-  (und muss mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
+  (und sollte mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
   werden). Erkundige dich vorher, z.B. in Internetforen und deinem
   Bekanntenkreis, ob überhaupt Interesse an einer Competition
   in deinem Ort besteht.
@@ -255,32 +250,33 @@ beim Organisieren beachten sollte.
   Die Ergebnisse der Competition werden in einer Excel Tabelle notiert
   und deren Benutzung ist teilweise nicht ganz leicht. Bitte deinen
   Delegate dir eine Kopie der Datei zuzusenden.
-  (Sowohl Sébastien als auch Ron benutzen selbst programmierte
-  Excel-Dateien mit denen es auch einfach möglich ist Urkunden und
-  Scoresheets zu drucken, was viel Arbeit erspart!) 
  </li>
  <li>
-  <b>Oder: Bereite cubecomps.com vor</b><br/>
+  <b>Oder (empfohlen): Bereite cubecomps.com vor</b><br/>
   In den letzten Jahren ist es immer üblicher geworden, die gut funktionierende
   Webseite von <b>Luis&nbsp;Iáñez</b> <a href="http://www.cubecomps.com">www.cubecomps.com</a>
   zu verwenden. Sie bietet eine schnellere Eingabe, leichteres Ausdrucken und 
   bessern Überblick über die Ergebnisse. Jedoch brauchst du einen Internetzugang
   um die Ergebnisse einzutragen. Erkundige dich vorab bei deinem Vermieter ob dies möglich ist,
-  oder frage deinen Delegate ob er dir einen Hotspot anbieten kann. Falls es sicher ist,
-  dass du Internetzugang haben wirst, kannst du entweder Luis über <a href="https://www.facebook.com/cubecomps">Facebook</a> kontaktieren,
+  oder stelle sicher, dass das mobile Internet im Veranstaltungsraum hinreichend ist, 
+  so dass du einen hotspot verwenden kannst. Falls es sicher ist,
+  dass du Internetzugang haben wirst, kannst du entweder Luis über 
+  <a href="https://www.facebook.com/cubecomps">Facebook</a> kontaktieren,
   oder deinen Delegate nach seiner E-Mail Adresse fragen.
  </li>
  <li>
-  <b>Installiere die Scramble Programme</b><br/>
+  <b>Installiere das Scrambling Programm der WCA</b><br/>
   Es kann passieren, dass du während der Competition zusätzliche Scrambles
   benötigst. Installiere dir daher die Scramble Programme
-  (siehe <a href="http://cube.hackvalue.de/wca/#scrambling">WCA Regeln</a>)
+  (siehe <a href="https://www.worldcubeassociation.org/regulations/scrambles/">WCA Regeln</a>)
   auf deinem Computer.
  </li>
  <li>
   <b>Drucke die Scoresheets und die Teilnehmerliste</b><br/>
   Du solltest dich rechtzeitig darum kümmern alle Scoresheets
-  (Zettel, auf denen die Schiedsrichter die Ergebnisse notieren) zu drucken.
+  (Zettel, auf denen die Schiedsrichter die Ergebnisse notieren) zu drucken. 
+  Dies sollte spätestens am Tag vor der Competitions erledigt werden, 
+  da während der Competitions schon genug zu tun sein wird.
   An der Kasse im Eingangsbereich sollte außerdem eine Teilnehmerliste
   bereit liegen und eventuell für jeden Teilnehmer ein Namensschild.
  </li>
@@ -300,7 +296,7 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Lerne die WCA Regeln</b><br/>
-  Der WCA Delegate kennt alle Regeln perfekt, aber auch der Organisator
+  Der WCA Delegate kennt alle Regeln sehr gut, aber auch der Organisator
   sollte ausreichend vertraut sein und die gesamten Regeln
   aufmerksam durchgearbeitet und verstanden haben. Sollten einzelne
   Teile unklar sein, frage den WCA Delegate, ob er sie genauer erklären
@@ -362,7 +358,8 @@ beim Organisieren beachten sollte.
   Competitions ihren Zeitplan nicht einhalten können.
   Achte stets darauf, ob genügend Helfer vorhanden sind und rufe
   nach welchen, sollte dies nicht der Fall sein: Nach den Regeln
-  ist jeder Teilnehmer verpflichtet zu helfen!
+  ist jeder Teilnehmer verpflichtet zu helfen! Hilft es nicht, laut nach Helfern 
+  zu rufen, dann sprich einfach Leute einzeln an.
  </li>
  <li>
   <b>Ergebnisse eintragen</b><br/>
@@ -382,10 +379,10 @@ beim Organisieren beachten sollte.
  </li>
  <li>
   <b>Kopie der Regeln</b><br/>
-  Da die wenigsten Leute alle Regeln auswendig kennen, solltest du mehrere
-  Kopien der Regeln (am besten in der englischen Originalversion und auch
+  Da die wenigsten Leute alle Regeln auswendig kennen, solltest du eine
+  Kopie der Regeln (am besten in der englischen Originalversion und auch
   als deutsche Übersetzung) vor Ort haben um im Zweifelsfall nachlesen
-  zu können.
+  zu können. Eine PDF-Version auf dem Computer ist dabei ausreichend.
  </li>
  <li>
   <b>Mache die Competition einzigartig</b><br/>
@@ -417,7 +414,9 @@ ein Restrisiko, dass du auf Kosten sitzen bleibst (z.B. weil
 weniger Personen erscheinen als erwartet).
 Am besten planst du so, dass du deine Kosten auch mit 80% der
 angemeldeten Teilnehmer deckst und sparst einen eventuellen
-Überschuss für die nächste Competition.
+Überschuss für die nächste Competition. Auch beim Thema Finanzen lohnt 
+es sich mit dem Delegate zu reden, da dieser viel Erfahrung hat und alles 
+gut einschätzen kann.
 </p>
 
 <p>
@@ -442,13 +441,13 @@ Community und starte eventuell Umfragen, welche Termine am beliebtesten sind.
 <b>A:</b> Du könntest es kaufen, was sich besonders dann lohnt, wenn du vor
 hast noch öfter eine Competition zu organisieren. Meistens ist das aber
 zu teuer. Sprich mit dem Delegate oder anderen Helfern, ob sie dir
-aushelfen können. Der Delegate kann in der Regel die Timer und Displays
-besorgen.
+aushelfen können. Der Delegate stellt in der Regel die Timer und Displays
+zur Verfügung.
 </p>
 
 <p>
 <b>F:</b> Muss ich den WCA Delegate bezahlen? <br/>
-<b>A:</b> WCA Delegate ist ein Ehrenamt. Delegates werden nicht bezahlt,
+<b>A:</b> WCA Delegate ist ein Ehrenamt. Delegates müssen nicht bezahlt werden,
 aber die Anreisekosten zu übernehmen oder eine kostenlose
 Übernachtungsmöglichkeit sowie ein kleines Dankeschöngeschenk sind eine
 nette Geste.
