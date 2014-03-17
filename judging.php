@@ -26,8 +26,8 @@ auch als Schiedsrichter ("Judge") tätig zu sein.
 Keine Angst,
 es ist im Grunde nicht schwer. Du solltest auf jeden Fall, wie auch
 jeder andere Teilnehmer, die
-<a href="http://cube.hackvalue.de/wca/">WCA Regeln</a> einmal gelesen
-haben, aber du musst das natürlich nicht alles auswendig wissen.
+<a href="https://www.worldcubeassociation.org/regulations/translations/german/">WCA Regeln</a> einmal gelesen
+und verstanden haben, aber du musst das natürlich nicht alles auswendig wissen.
 </p>
 
 <p>
@@ -73,13 +73,15 @@ du einen Teilnehmer mit wenigen Versuchen nimmst, damit alle ungefähr
 gleichzeitig fertig werden. Sei dabei nicht
 wählerisch! Klar ist es ganz cool, mal schnelle Teilnehmer oder seine
 Freunde zu judgen, aber auch alle anderen warten nicht gerne bis sie
-an der Reihe sind.
+an der Reihe sind. Nimm am besten stets das nächst beste fertig gemischte Puzzle 
+oder achte darauf jemanden zu nehmen, der bisher noch nicht so viele Versuche 
+wie andere beendet hat.
 </p>
 
 <h2>Rufe den Namen des Teilnehmers</h2>
 
 <p>
-Rufe laut und deutlich
+Gehe zur Wartezone und rufe laut und deutlich
 den Namen des Teilnehmers. Meldet er sich nicht, rufe erneut laut und
 deutlich. Meldet er sich immer noch nicht, bringe das Puzzle zurück,
 sage den Leuten am Scrambletisch kurz Bescheid
@@ -176,14 +178,16 @@ dann frage einfach am Scrambletisch nach.
 <p>
 Der Teilnehmer wird das Puzzle auf den Tisch legen und die Zeit stoppen.
 Der Timer muss mit den Handflächen gestoppt werden, nicht mit den 
-Handballen ("+2"). Der Teilnehmer darf das Puzzle in diesem Moment nicht mehr
+Handkanten ("+2"). Der Teilnehmer darf das Puzzle in diesem Moment nicht mehr
 in der Hand halten ("+2"). Nachdem der Timer gestoppt ist, darf der Teilnehmer
 das Puzzle nicht mehr berühren ("+2"). Du solltest nun das Puzzle genau untersuchen
-und feststellen ob es korrekt gelöst ist. Ist dies der Fall, sagst du "OK" und das Puzzle
-ist heirmit für den Teilnehmer zum anfassen freigegeben. Ist eine Seite nicht korrekt ausgerichtet
+und feststellen ob es korrekt gelöst ist. Achtung: Mache dies am besten ohne das Puzzle in die Hand zu nehmen! 
+Die Position, in der das Puzzle gelandet ist, könnte bei eventuellen Streitigkeiten noch wichtig sein. 
+Ist das Puzzle eindeutig gelöst, sagst du "OK" und das Puzzle
+ist hiermit für den Teilnehmer zum Anfassen freigegeben. Ist eine Seite nicht korrekt ausgerichtet
 kann es unter Umständen zu zwei Strafsekunden kommen (siehe
-<a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10</a> der WCA Regeln).
-Frage im Zweifelsfall einen anderen Schiedsrichter oder den WCA Delegierten um
+<a href="https://www.worldcubeassociation.org/regulations/translations/german/#article-10-solved-state">Abschnitt 10</a> 
+der WCA Regeln). Frage im Zweifelsfall einen anderen Schiedsrichter oder den WCA Delegierten um
 Rat. Hole diese Personen dann zum Tisch und bringe nicht das Puzzle zu ihnen. Wenn
 du unsicher bist, ob ein Puzzle gelöst ist, lasse es unberührt an seiner
 Stelle liegen!
@@ -197,10 +201,10 @@ aufschreiben, die der Stackmat Timer zeigt (falls das Puzzle korrekt
 gelöst ist). Erhält der Teilnehmer zwei Strafsekunden, schreibe die Zeit
 auf gefolgt von "+2" und der endgültigen Zeit (z.B. "17.65 + 2 = 19.65").
 Ist das Puzzle aus irgendwelchen Gründen nicht gelöst
-(siehe <a href="http://cube.hackvalue.de/wca/#solvedstate">Abschnitt 10</a> der WCA Regeln),
+(siehe <a href="https://www.worldcubeassociation.org/regulations/translations/german/#article-10-solved-state">Abschnitt 10</a> der WCA Regeln),
 so schreibst du "DNF" auf. Falls der verwendete Timer 3 Nachkommastellen hat, schreibst du alle mit auf.
 Runde die Zeit nicht ab! Wenn du das Ergebniss fertig aufgeschrieben hast, müssen du und der Teilnehmer 
-noch unterschreiben. Achte darauf, dass du alle Zeiten deutlich schreibst, da sons unter Umständen 
+noch unterschreiben. Achte darauf, dass du alle Zeiten deutlich schreibst, da sonst unter Umständen 
 falsche Ergebnisse eingetragen werden.
 Falls der Teilnehmer alle Versuche dieser Runde erledigt hat, gib ihm
 sein Puzzle zurück und teile ihm mit, dass er fertig ist. Anderenfalls
@@ -215,7 +219,8 @@ das Ergebnis notierst, zurück zum Scrambletisch!
 Wenn du zu irgendeinem Zeitpunkt unsicher bist, was du tun sollst: Frage nach.
 Frage andere Schiedsrichter oder den WCA Delegierten (nicht den Teilnehmer!).
 Habe keine Angst davor den Leuten auf die Nerven zu fallen, denn sie werden
-froh sein, wenn du fragst, anstatt womöglich Fehler zu machen.
+froh sein, dass du mithilfst und sich freuen, wenn du fragst, anstatt womöglich 
+Fehler zu machen.
 </p>
 
 <? include "footer.php" ?>
