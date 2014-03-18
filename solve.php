@@ -136,7 +136,7 @@ noch ein mal deutlicher aufzuschreiben.
 <h2>Unterschreiben</h2>
 
 <p>
-Wenn dein Schiedsrichtiger deine Zeit richtig und leserlich aufgeschrieben hast,
+Wenn dein Schiedsrichter deine Zeit richtig und leserlich aufgeschrieben hat,
 musst du noch unterschreiben, und damit bezeugen, dass alles richtig aufgeschrieben wurde.
 </p>
 
