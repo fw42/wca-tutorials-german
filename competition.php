@@ -315,7 +315,7 @@ beim Organisieren beachten sollte.
   (z.B. <a href="http://www.speedcubers.de/">speedcubers.de</a>,
   <a href="http://www.speedcube.de/">speedcube.de</a> und
   <a href="http://www.speedsolving.com/">speedsolving.com</a>). Außerdem
-  könntest du eine Facbook Gruppe für deine Competition erstellen. Mache
+  könntest du eine Facebook-Gruppe für deine Competition erstellen. Mache
   an so vielen Stellen wie möglich Werbung um möglichst viele
   Teilnehmer und Zuschauer anzulocken.
  </li>
