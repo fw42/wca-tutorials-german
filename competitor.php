@@ -74,7 +74,7 @@ Bedenke, dass die Organisatoren die Eintrittsgelder meist so planen, dass
 sie durch die angemeldeten Teilnehmer die Organisationskosten wieder
 hereinbekommen. Bleiben also zu viele angemeldete Teilnehmer fern, so
 machen die Organisatoren Verluste. Außerdem kann es sein, dass es Wartelisten gibt 
-und du meinem anderen Teilnehmer die Chance verwehrst teilzunehmen, wenn du dich nicht 
+und du einem anderen Teilnehmer die Chance verwehrst teilzunehmen, wenn du dich nicht 
 abmeldest. Wenn du dich nur für ein einzelnes Event nach- oder abmelden möchtest,
 melde dich per E-Mail beim Organisator.
 </p>
