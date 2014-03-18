@@ -422,7 +422,7 @@ gut einschätzen kann.
 <p>
 <b>F:</b> Woher weiß man wie viele Leute ungefähr kommen? <br/>
 <b>A:</b> Schaue dir an, wie gut Competitions in deiner Nähe normalerweise
-besucht sind. Sprich mit der Community. Starte Umfragen in Internet Foren.
+besucht sind. Sprich mit der Community. Starte Umfragen in Internetforen.
 Behalte im Hinterkopf, dass so gut wie nie alle Leute erscheinen, die
  angemeldet sind, dafür aber auch oft Zuschauer oder Gäste unangemeldet
 aufkreuzen. <br/>
