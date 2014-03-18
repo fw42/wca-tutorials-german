@@ -122,7 +122,7 @@ nicht unbedingt, dass du auch
 sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
 Name dabei ist. Zusätzlich hängen auf den meisten Competitions auch Listen aus, 
-auf denen man nachschauen kann, ich welcher Gruppe man jeweils eingeteilt ist.
+auf denen man nachschauen kann, in welche Gruppe man jeweils eingeteilt ist.
 Falls du aufgerufen wirst, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
 aufgerufen wird, bist du in einer der nächsten Gruppen.
