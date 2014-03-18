@@ -259,7 +259,7 @@ beim Organisieren beachten sollte.
   bessern Überblick über die Ergebnisse. Jedoch brauchst du einen Internetzugang
   um die Ergebnisse einzutragen. Erkundige dich vorab bei deinem Vermieter ob dies möglich ist,
   oder stelle sicher, dass das mobile Internet im Veranstaltungsraum hinreichend ist, 
-  so dass du einen hotspot verwenden kannst. Falls es sicher ist,
+  so dass du einen Hotspot verwenden kannst. Falls es sicher ist,
   dass du Internetzugang haben wirst, kannst du entweder Luis über 
   <a href="https://www.facebook.com/cubecomps">Facebook</a> kontaktieren,
   oder deinen Delegate nach seiner E-Mail Adresse fragen.
