@@ -51,8 +51,8 @@ um Hilfe bitten. Die offiziellen WCA Regeln findest du hier:
 <a href="http://www.worldcubeassociation.org/regulations/">
 http://www.worldcubeassociation.org/regulations/</a>.
 Eine deutsche Übersetzung gibt es hier:
-<a href="http://cube.hackvalue.de/wca/">
-http://cube.hackvalue.de/wca/</a>.
+<a href="https://www.worldcubeassociation.org/regulations/translations/german/">
+https://www.worldcubeassociation.org/regulations/translations/german/</a>.
 </p>
 
 <h2>Vorher anmelden!</h2>
@@ -64,18 +64,18 @@ Competitions findest du hier:
 <a href="http://www.worldcubeassociation.org/results/competitions.php">
 http://www.worldcubeassociation.org/results/competitions.php</a>.
 Dort sind auch die Webseiten, soweit vorhanden, eingetragen. Jede Webseite
-enthält auch immer ein Anmeldeformular,
-mit dem du dich anmelden solltest. Bei vielen Competitions ist es zwar
-auch möglich sich vor Ort noch anzumelden, aber die Organisatoren werden
-dankbar sein, wenn sie vorher bereits wissen, mit wie vielen Personen
+enthält auch immer ein Anmeldeformular, mit dem du dich anmelden musst. 
+Die Organisatoren werden dankbar sein, wenn sie schon lange vorher bereits 
+wissen, mit wie vielen Personen
 sie rechnen müssen. Melde dich daher so früh wie möglich an.
 <b>Sehr wichtig:</b>
 Falls du doch keine Zeit oder Lust hast, melde dich rechtzeitig wieder ab!
 Bedenke, dass die Organisatoren die Eintrittsgelder meist so planen, dass
 sie durch die angemeldeten Teilnehmer die Organisationskosten wieder
 hereinbekommen. Bleiben also zu viele angemeldete Teilnehmer fern, so
-machen die Organisatoren Verluste. Wenn
-du dich nur für ein einzelnes Event nach- oder abmelden möchtest,
+machen die Organisatoren Verluste. Außerdem kann es sein, dass es Wartelisten gibt 
+und du einem anderen Teilnehmer die Chance verwehrst teilzunehmen, wenn du dich nicht 
+abmeldest. Wenn du dich nur für ein einzelnes Event nach- oder abmelden möchtest,
 melde dich per E-Mail beim Organisator.
 </p>
 
@@ -96,13 +96,11 @@ im Bus oder in der Bahn sind ein gutes Training um Nervosität zu vermeiden.
 
 <p>
 Sind die Sticker auf deinem Cube sehr abgenutzt, so solltest du
-in Betracht ziehen diese gegen neue zu ersetzen (z.B. von
+in Betracht ziehen diese gegen Neue zu ersetzen (z.B. von
 <a href="http://www.cubikon.de/">Cubikon</a> oder 
 <a href="http://www.cubesmith.com/">Cubesmith</a>).
 Besonders beim Blindlösen kann es sonst unter Umständen passieren,
-dass du mit deinem Puzzle nicht teilnehmen darfst, siehe
-<a href="http://cube.hackvalue.de/wca/#blindfoldedsolving">Abschnitt B1d</a>
-der WCA Regeln.
+dass du mit deinem Puzzle nicht teilnehmen darfst.
 </p>
 
 <h2>Plane deinen Tag</h2>
@@ -123,15 +121,16 @@ Nur weil du für ein Event angemeldet bist, heißt das daher noch
 nicht unbedingt, dass du auch
 sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
-Name dabei ist.
-Falls ja, solltest du dein Puzzle zum Mischen abgeben
+Name dabei ist. Zusätzlich hängen auf den meisten Competitions auch Listen aus, 
+auf denen man nachschauen kann, in welche Gruppe man jeweils eingeteilt ist.
+Falls du aufgerufen wirst, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
 aufgerufen wird, bist du in einer der nächsten Gruppen.
 Von allen Teilnehmern,
 die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
 sind, wird erwartet, dass sie als Schiedsrichter oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
-Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du
+Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du unbedingt
 das <a href="judging.php">Judging Tutorial</a> lesen.
 Sollte dein Name auch in der letzten Gruppe nicht aufgerufen werden,
 so melde dich umgehend beim Scrambletisch. Auch Organisatoren sind
