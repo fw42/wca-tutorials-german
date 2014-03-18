@@ -275,7 +275,7 @@ beim Organisieren beachten sollte.
   <b>Drucke die Scoresheets und die Teilnehmerliste</b><br/>
   Du solltest dich rechtzeitig darum kümmern alle Scoresheets
   (Zettel, auf denen die Schiedsrichter die Ergebnisse notieren) zu drucken. 
-  Dies sollte spätestens am Tag vor der Competitions erledigt werden, 
+  Dies sollte spätestens am Tag vor der Competition erledigt werden, 
   da während der Competitions schon genug zu tun sein wird.
   An der Kasse im Eingangsbereich sollte außerdem eine Teilnehmerliste
   bereit liegen und eventuell für jeden Teilnehmer ein Namensschild.
