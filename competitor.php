@@ -38,13 +38,13 @@ ist die regulierende Instanz im Speedcubing, wie etwa der DFB beim Fußball
 oder die NBA beim Basketball. Die WCA verwaltet die Ergebnisse der
 Competitions, stellt die internationalen und nationalen Ranglisten zur
 Verfügung und stellt die Regeln für den Ablauf einer Competition auf.
-Diese Regeln solltest du daher kennen um nicht Gefahr zu laufen
+Diese Regeln solltest du daher kennen, um nicht Gefahr zu laufen,
 disqualifiziert zu werden, weil du z.B. den Timer nicht richtig startest
 oder zur richtigen Zeit nicht am richtigen Ort bist. Du musst die
 Regeln natürlich nicht komplett auswendig kennen, aber du solltest unbedingt
 einmal aufmerksam die gesamten Regeln lesen, bevor du zu deinem ersten
 Wettkampf gehst. Falls du
-Fragen hast oder einzelne Teile der Regeln nicht verstehst, so solltest
+Fragen hast oder einzelne Teile der Regeln nicht verstehst, solltest
 du unbedingt den Veranstalter oder andere Cuber vor der Competition
 oder während der Competition (aber auf jeden Fall bevor du dran bist)
 um Hilfe bitten. Die offiziellen WCA Regeln findest du hier:
@@ -65,7 +65,7 @@ Competitions findest du hier:
 http://www.worldcubeassociation.org/results/competitions.php</a>.
 Dort sind auch die Webseiten, soweit vorhanden, eingetragen. Jede Webseite
 enthält auch immer ein Anmeldeformular, mit dem du dich anmelden musst. 
-Die Organisatoren werden dankbar sein, wenn sie schon lange vorher bereits 
+Die Organisatoren werden dankbar sein, wenn sie schon lange vorher  
 wissen, mit wie vielen Personen
 sie rechnen müssen. Melde dich daher so früh wie möglich an.
 <b>Sehr wichtig:</b>
@@ -82,11 +82,11 @@ melde dich per E-Mail beim Organisator.
 <h2>Training</h2>
 
 <p>
-Du beherrschst deine Methode gut und schaffst zuhause Zeiten mit denen
+Du beherrschst deine Methode gut und schaffst zuhause Zeiten, mit denen
 du zufrieden bist? Auf einer Competition sieht das meistens anders aus.
 Du bist nervös, deine Hände zittern und dir gucken unter Umständen
 50 Leute oder mehr ganz genau mit kritischen Blicken auf die Finger.
-Um keine bösen Überraschungen zu erleben, solltest du zuhause üben vor
+Um keine bösen Überraschungen zu erleben, solltest du zuhause üben, vor
 vielen Leute zu lösen, z.B. vor Freunden oder der Familie.
 Auch Cuben in der Öffentlichkeit, z.B. in der Schule, in der Stadt,
 im Bus oder in der Bahn sind ein gutes Training um Nervosität zu vermeiden. 
@@ -96,7 +96,7 @@ im Bus oder in der Bahn sind ein gutes Training um Nervosität zu vermeiden.
 
 <p>
 Sind die Sticker auf deinem Cube sehr abgenutzt, so solltest du
-in Betracht ziehen diese gegen Neue zu ersetzen (z.B. von
+in Betracht ziehen diese durch neue zu ersetzen (z.B. von
 <a href="http://www.cubikon.de/">Cubikon</a> oder 
 <a href="http://www.cubesmith.com/">Cubesmith</a>).
 Besonders beim Blindlösen kann es sonst unter Umständen passieren,
@@ -119,7 +119,7 @@ Klo sitzt, kann schnell disqualifiziert werden.
 Teilnehmer werden normalerweise in Gruppen, meist zwei, eingeteilt.
 Nur weil du für ein Event angemeldet bist, heißt das daher noch
 nicht unbedingt, dass du auch
-sofort an der Reihe bist. Am Anfang des Events werden in der Regel die Leute
+sofort an der Reihe bist. Am Anfang des Events werden die Teilnehmer
 aufgerufen, die zur momentanen Gruppe gehören. Achte darauf, ob dein
 Name dabei ist. Zusätzlich hängen auf den meisten Competitions auch Listen aus, 
 auf denen man nachschauen kann, in welche Gruppe man jeweils eingeteilt ist.
@@ -127,7 +127,7 @@ Falls du aufgerufen wirst, solltest du dein Puzzle zum Mischen abgeben
 und dich anschließend in den Wartebereich begeben. Falls dein Name nicht
 aufgerufen wird, bist du in einer der nächsten Gruppen.
 Von allen Teilnehmern,
-die für ein Event angemeldet sind, aber die nicht in der aktuellen Gruppe
+die für ein Event angemeldet sind, aber nicht in der aktuellen Gruppe
 sind, wird erwartet, dass sie als Schiedsrichter oder als Scrambler
 zur Verfügung stehen (wer sich weigert, kann disqualifiziert werden!).
 Wenn du nicht weißt, was ein Schiedsrichter zu tun hat, solltest du unbedingt
@@ -143,7 +143,7 @@ gegangen ist.
 
 <p>
 Jetzt geht es los. Dein Name wurde aufgerufen. Es steht ein
-Schiedsrichter mit deinem gemischten Puzzle beim Wartebereich um
+Schiedsrichter mit deinem gemischten Puzzle beim Wartebereich, um
 dich abzuholen. Gehe zu ihm und lasse dir weitere Anweisungen geben.
 Wenn nötig, sage ihm, dass das deine erste Competition ist und dass er dir bitte
 noch einmal erklären soll, wie es jetzt genau weiter geht.
@@ -153,7 +153,7 @@ Mehr findest du im <a href="solve.php">Puzzle Lösen Tutorial</a>.
 <h2>Fertig? Hinsetzen!</h2>
 
 <p>
-Normalerweise löst jeder Teilnehmer ein Puzzle fünf mal (drei mal für
+Normalerweise löst jeder Teilnehmer ein Puzzle fünf Mal (drei Mal für
 bestimmte Puzzle). Nachdem du dein Puzzle gelöst hast, musst du zurück
 in den Wartebereich. Nimm dein Puzzle nicht mit, sondern gib es dem
 Schiedsrichter, damit dieser es erneut mischen lassen kann.
