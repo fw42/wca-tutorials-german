@@ -11,7 +11,10 @@ Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/jtutorial.php">Judging Tutorial</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
 Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
-(<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>) und vielen anderen.
+(<a href="https://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>),
+Laura Ohrndorf (<a href="https://www.worldcubeassociation.org/results/p.php?i=2009OHRN01">2009OHRN01</a>),
+Sébastien Auroux (<a href="https://www.worldcubeassociation.org/results/p.php?i=2008AURO01">2008AUR01</a>)
+und vielen anderen.
 </p>
 
 <? include "menu.php" ?>

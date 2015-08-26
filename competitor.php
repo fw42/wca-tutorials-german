@@ -11,7 +11,10 @@ Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/ctutorial.php">Competitor Tutorial</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
 Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
-(<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>) und vielen anderen.
+(<a href="https://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>),
+Laura Ohrndorf (<a href="https://www.worldcubeassociation.org/results/p.php?i=2009OHRN01">2009OHRN01</a>),
+Sébastien Auroux (<a href="https://www.worldcubeassociation.org/results/p.php?i=2008AURO01">2008AUR01</a>)
+und vielen anderen.
 </p>
 
 <? include "menu.php" ?>
@@ -58,8 +61,8 @@ bereit teilzunehmen.
 
 <p>
 Teilnehmer eines Events werden meistens in Gruppen eingeteilt, die du den ausgehängten Listen
-entnehmen kannst. Sobald dein Name oder deine Gruppe aufgerufen wird, gehe zum Scrambling
-Tisch und lege dein Puzzle auf den Zettel (Scoresheet), auf dem dein Name steht. Danach setzt
+entnehmen kannst. Sobald dein Name oder deine Gruppe aufgerufen wird, gehe zum Scramblingtisch
+und lege dein Puzzle auf den Zettel (Scoresheet), auf dem dein Name steht. Danach setzt
 du dich in den Wartebereich. Wenig später wird dich ein Judge aufrufen. Gehe zusammen mit ihm
 zu einem der Timertische und setze dich. Der Judge legt das Puzzle vor dir auf die Matte
 (Stackmat). Zu Beginn des Versuchs ist es mit einer Abdeckung verdeckt. Dein Judge wird dich
@@ -86,16 +89,15 @@ zu lösen. Spätestens nach den 15 Sekunden musst du den Timer gestartet haben.
 <p>
 Wenn du das Puzzle gelöst hast, lege das Puzzle auf den Tisch und stoppe den Timer. Dazu musst du
 wieder die Hände <i>flach</i> auf die Sensorflächen legen. Achte darauf, dass du das Puzzle dabei
-nicht mehr berührst.
+nicht mehr berührst. Dein Judge wird nun überprüfen, ob das Puzzle gelöst ist und deine Zeit
+aufschreiben. Er wird dir auch sagen, falls es Regelverstösse gab. Warte dies ab und berühre
+währenddessen nicht das Puzzle. Anschliessend musst du auf dem Scoresheet unterschreiben um das
+Resultat zu bestätigen. Bevor du dies tust, vergewissere dich dass die Zeit richtig aufgeschrieben
+wurde. Wenn du unsicher bist, zögere auch hier nicht nachzufragen oder sogar den WCA Delegierten
+herbeizurufen.</p>
 
-Dein Judge wird nun überprüfen, ob das Puzzle gelöst ist und deine Zeit aufschreiben. Er wird dir
-auch sagen, falls es Regelverstösse gab. Warte dies ab und berühre währenddessen nicht das Puzzle.
-Anschliessend musst du auf dem Scoresheet unterschreiben um das Resultat zu bestätigen. Bevor du
-dies tust, vergewissere dich dass die Zeit richtig aufgeschrieben wurde. Wenn du unsicher bist,
-zögere auch hier nicht nachzufragen oder sogar den WCA Delegierten herbeizurufen.
-
-Wenn du noch weitere Versuche machen darfst, wird der Judge das Puzzle mitnehmen und zurück zum
-Scrambling Tisch bringen. Du musst dich dann zurück in den Wartebereich setzen. Ansonsten ist das
+<p>Wenn du noch weitere Versuche machen darfst, wird der Judge das Puzzle mitnehmen und zurück zum
+Scramblingtisch bringen. Du musst dich dann zurück in den Wartebereich setzen. Ansonsten ist das
 Event für dich vorbei und du kannst dein Puzzle wieder mitnehmen.
 </p>
 
