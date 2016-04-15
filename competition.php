@@ -117,9 +117,9 @@ beim Organisieren beachten sollte.
   Jede offizielle WCA Competition benötigt mindestens einen offiziellen
   Vertreter der WCA, einen so genannten "Delegate". In Deutschland sind
   dies momentan <b>Sébastien&nbsp;Auroux</b>
-  (<a href="mailto:sebastien.auroux@gmx.net">sebastien.auroux@gmx.net</a>)
-  aus Paderborn und <b>Björn&nbsp;Korbanka</b>
-  (<a href="mailto:Bjoern-korbanka@web.de">Bjoern-korbanka@web.de</a>)
+  (<a href="mailto:sebastien.auroux@gmx.net">E-Mail</a>)
+  aus Paderborn und <b>Linus Fresz</b>
+  (<a href="mailto:linuf95@gmail.com">E-Mail</a>)
   aus Regensburg. Schreibe am besten beide an, beschreibe was du planst 
   und sprich mögliche Termine mit ihnen ab. 
   Es ist sehr sinnvoll, den Delegate frühzeitig zu kontaktieren und
