@@ -11,9 +11,13 @@ Dieser Text basiert auf dem
 <a href="http://www.cubingusa.com/cguide.php">Competition Guide</a>
 von <a href="http://www.cubingusa.com">Cubing USA</a>. <br/>
 Übersetzt und ergänzt von <a href="http://hackvalue.de">Florian Weingarten</a>
-(<a href="http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01">2007WEIN01</a>)<br/>
-<a href="http://aachen.speedcubing.com/">
-http://aachen.speedcubing.com/</a>
+(<a href="http://www.worldcubeassociation.org/persons/2007WEIN01">2007WEIN01</a>)<br/>
+Überarbeitet und aktualisiert von Laura Ohrndorf
+(<a href="http://www.worldcubeassociation.org/persons/2009OHRN01">2009OHRN01</a>),
+Sébastien Auroux
+(<a href="http://www.worldcubeassociation.org/persons/2008AURO1">2008AURO01</a>),
+und Linus Fresz
+(<a href="http://www.worldcubeassociation.org/persons/2011FRES01">2011FRES01</a>).
 </p>
 
 <? include "credits.php" ?>
@@ -21,444 +25,328 @@ http://aachen.speedcubing.com/</a>
 <? include "menu.php" ?>
 
 <p>
-WCA Competitions werden (in der Regel) ehrenamtlich von Freiwilligen
-organisiert. Wenn du also selbst schon oft auf einer Competition warst,
-kannst du dir überlegen, auch einmal so etwas zu veranstalten.
-Die Leute werden es dir danken und du wirst
-viele wertvolle Erfahrungen sammeln!
+  WCA Competitions werden in der Regel ehrenamtlich und freiwillig organisiert.
+  Solltest du selbst schon einige Competitions besucht haben und möchtest, dass
+  in deiner Stadt ein Wettbewerb stattfindet, sind hier die wichtigsten Punkte
+  aufgezählt, auf die du bei der Organisation eines Wettbewerbs achten musst.
+  Jedoch sollte dir bewusst sein, dass dies keine leichte Aufgabe ist und vor
+  allem einiges an Vorbereitung benötigt. Dieser Text soll als Leitfaden dienen,
+  darf jedoch auf <b>keinen</b> Fall die Kommunikation mit deinem zuständigen Delegate
+  ersetzen.
 </p>
 
+<h2>Erste Schritte</h2>
 <p>
-Eine Competition zu organisieren ist keine leichte Aufgabe
-(vor allem wenn man finanziell sehr eingeschränkt ist),
-aber auch nicht so schwer, wie man vielleicht denkt. Auf dieser Seite
-sollen ein paar Tipps gegeben werden und eine Liste von Dingen, die man
-beim Organisieren beachten sollte.
-</p>
-
-<h2>Was du brauchen wirst</h2>
+  Um selbst Organisator eines Wettbewerbs zu werden, ist es nötig, dass du bereits
+  entsprechende Erfahrung auf Competitions gesammelt und bestenfalls anderen
+  Organisatoren schon über die Schulter geschaut und ihnen geholfen hast.
+  Darüber hinaus solltest du gut vertraut mit den
+  <a href="https://www.worldcubeassociation.org/regulations/">WCA Regeln</a>
+  sein. Es wird vom Organisator einer Competition erwartet, dass er (zusammen
+  mit seinen Mitorganisatoren) eigenständig den Ablauf einer Competition
+  überblicken und handhaben kann.
+<p>
 
 <ul>
- <li>
-  <b>Computer und Drucker</b><br/>
-  Ein Computer, am besten Laptop, sowie ein Farbdrucker sind unbedingt
-  nötig für eine Competition. Am PC wirst du die Ergebnisse in das
-  Excel Sheet, bzw. cubecomps.com, eintragen müssen. Mit dem Drucker druckst du 
-  Ergebnisse, Urkunden und andere Dinge. Die Ergebnisse solltest du im Raum
-  aushängen, damit die Leute
-  nicht ständig am PC nach ihrer Platzierung fragen.
- </li>
- <li>
-  <b>Stackmat Timer und Displays</b><br/>
-  Du wirst mehrere Timer und am besten auch Displays, damit die Zuschauer
-  die Zeiten sehen können, benötigen.
- </li>
- <li>
-  <b>Batterien</b><br/>
-  Die Displays verbrauchen Strom. Sorge dafür, dass ausreichend
-  Ersatzbatterien vorhanden sind.
- </li>
- <li>
-  <b>Stoppuhren</b><br/>
-  Um die Inspection Zeit zu stoppen, werden Stoppuhren benötigt.
-  Pro Timer sollte eine Stoppuhr zur Verfügung stehen.
- </li>
- <li>
-  <b>Abdeckungen</b><br/>
-  Um die gemischten Puzzle zu verdecken, sollte irgendeine Art von
-  Abdeckung vorhanden sein, z.B. Plastikdeckel.
- </li>
- <li>
-  <b>Scrambles</b><br/>
-  Auf der WCA Webseite findest du die
-  <a href="http://cube.hackvalue.de/wca/#scrambling">Programme zum
-  Generieren der Scrambles</a>.
-  Spreche rechtzeitig mit dem Delegate ab, ob du die
-  Scrambles selbst generieren und drucken musst oder ob er sie bereit
-  stellt. Die Scrambles müssen unbedingt streng geheim gehalten werden
-  und sollten in einem verschlossenen Umschlag aufbewahrt werden.
- </li>
- <li>
-  <b>Scoresheets</b><br/>
-  Dies sind Zettel, auf denen die Ergebnisse eines Teilnehmers in einem
-  Event eingetragen werden und können aus der Excel Datei, bzw. cubecomps.com, generiert werden.
- </li>
- <li>
-  <b>Stifte</b><br/>
-  Um die Ergebnisse zu notieren sollte bei jedem Timer mindestens ein
-  Kugelschreiber bereit liegen. Halte genug Ersatzkulis bereit.
- </li>
- <li>
-  <b>Papier</b><br/>
-  Du wirst sowohl eine Menge normales Druckerpapier als auch dickeres
-  Papier für die Urkunden besorgen müssen.
- </li>
+  <li>
+    <b>WCA Delegate</b><br/>
+    Jede offizielle WCA Competition benötigt mindestens einen offiziellen
+    Vertreter der WCA, einen so genannten "Delegate". Ein WCA Delegate ist unter
+    anderem dafür zuständig sicherzustellen, dass eine Competition gemäß den WCA
+    Regeln abläuft und die Organisatoren zu beraten und - wenn nötig - zu
+    unterstützen. In Deutschland sind dies momentan <b>Sébastien Auroux</b>
+    (<a href="mailto:sebastien.auroux@gmx.net">E-Mail</a>),
+    <b>Laura Ohrndorf</b> (<a href="mailto:laura.ohrndorf@gmail.com">E-Mail</a>)
+    aus Paderborn und <b>Linus Fresz</b>
+    (<a href="mailto:linuf95@gmail.com">E-Mail</a>) aus Regensburg.<br/>
+    Kontaktiere einen der oben genannten Delegates mit Informationen über deine
+    Pläne. Wenn möglich, präsentiere bereits einen Raum, der für eine
+    Competition geeignet ist. Es ist sehr sinnvoll, den Delegate frühzeitig zu
+    kontaktieren und während der gesamten Organisation mit ihm
+    zusammenzuarbeiten. Natürlich steht dir der Delegate auch jederzeit für
+    organisatorische Fragen zur Verfügung.
+  </li>
+  <li>
+    <b>Raum und Termin des Wettbewerbs</b><br/>
+    Du solltest versuchen, einen Raum zu finden, der hinsichtlich der Größe und
+    sonstiger Gegebenheiten (z.B. Licht und Erreichbarkeit) für eine Competition
+    geeignet ist. Sollte dir vom Delegate die Erlaubnis gegeben werden, eine
+    Competition zu organisieren, sprich mit ihm über den Raum und mögliche
+    Termine. Dafür solltest du mit dem Vermieter abgeklärt haben, dass auch
+    genügend Tische und Stühle vorhanden sind und wann der Raum abends geräumt
+    werden muss.
+  </li>
+  <li>
+    <b>Hilfe bei der Organisation</b><br/>
+    Alleine ist die Organisation einer Competition eine anstrengende und
+    kraftraubende Arbeit. Damit du nicht alleine alle Aufgaben übernehmen musst,
+    die vor und während eines Wettbewerbs anstehen, ist es unbedingt
+    empfehlenswert, sich Mitorganisatoren oder zumindest Hilfe von anderen
+    Teilnehmern für die Organisation einer Competition zu suchen. Dabei sind vor
+    allem solche Personen von Vorteil, die bereits Erfahrung mit der
+    Organisation von Competitions haben und dich entsprechend gut unterstützen
+    können.
+  </li>
 </ul>
 
+<h2>Wie geht es weiter?</h2>
 <p>
- Der Delegate (dazu später
- mehr) ist ein sehr wichtiger Ansprechpartner für viele dieser Dinge.
- Er bringt meistens die Timer, Displays, Stoppuhren und teilweise
- auch Batterien und Abdeckkappen mit. Sprich dies frühzeitig mit ihm ab!
+  Sobald Termin und Raum für den Wettbewerb in Zusammenarbeit mit dem Delegate
+  festgelegt sind, musst du dir über einige weitere Dinge Gedanken machen, bevor
+  die Competition angekündigt werden kann:
 </p>
 
-<h2>Loslegen</h2>
-
 <ul>
- <li>
-  <b>WCA Regeln</b><br/>
-  Besonders als Organisator einer Competition ist es unbedingt
-  notwendig die WCA Regeln komplett und sorgfältig gelesen zu haben.
-  Sie enthalten viele wichtige Infos und Richtlinien zur Organisation
-  eines Turniers!
- </li>
- <li>
-  <b>Suche einen WCA Delegate</b><br/>
-  Jede offizielle WCA Competition benötigt mindestens einen offiziellen
-  Vertreter der WCA, einen so genannten "Delegate". In Deutschland sind
-  dies momentan <b>Sébastien&nbsp;Auroux</b>
-  (<a href="mailto:sebastien.auroux@gmx.net">E-Mail</a>)
-  aus Paderborn und <b>Linus Fresz</b>
-  (<a href="mailto:linuf95@gmail.com">E-Mail</a>)
-  aus Regensburg. Schreibe am besten beide an, beschreibe was du planst 
-  und sprich mögliche Termine mit ihnen ab. 
-  Es ist sehr sinnvoll, den Delegate frühzeitig zu kontaktieren und
-  während der gesamten Organisation mit ihm zusammen zu arbeiten. Er
-  steht dir insbesondere für organisatorische Fragen gerne zur Verfügung.
- </li>
- <li>
-  <b>Kapital</b><br/>
-  Bedenke stets, dass du alle Ausgaben für die Organisation vorstrecken
-  musst, solange du kein PayPal-Vorkassesystem verwendest, bis das Geld 
-  in Form der Eintrittsgebühren durch die Teilnehmer
-  wieder hereinkommt. Es ist sehr ratsam sich direkt am Anfang einen
-  Finanzplan zu erstellen in dem man alle Kosten und die kalkulierten
-  Einnahmen einträgt.
- </li>
- <li>
-  <b>Besuche andere Competitions</b><br/>
-  Eine Competition kann man nur organisieren, wenn man weiß, was das ist.
-  Bevor du also selbst etwas planst, solltest du mindestens auf zwei bis
-  drei Competitions gewesen sein und dir alles sehr
-  genau angeschaut haben. Achte vor allem darauf, welche Aufgaben das
-  Organisationsteam übernimmt. Sprich mit den Organisatoren, frage sie,
-  welche Probleme sie bei der Organisation hatten, lasse dir Tipps geben.
-  Ein Textdokument kann nie eigene Erfahrung ersetzen.
- </li>
- <li>
-  <b>Stelle sicher, dass genug Leute Interesse haben</b><br/>
-  Eine gute Competition sollte mindestens 20 Teilnehmer haben
-  (und sollte mindestens 12 Teilnehmer haben um von der WCA anerkannt zu
-  werden). Erkundige dich vorher, z.B. in Internetforen und deinem
-  Bekanntenkreis, ob überhaupt Interesse an einer Competition
-  in deinem Ort besteht.
- </li>
- <li>
-  <b>Wähle ein Wochenende, an dem möglichst viele Personen können</b><br/>
-  Erkundige dich, welche anderen Competitions noch stattfinden. Es ist
-  wenig sinnvoll zwei deutsche Competitions an ein und dem selben
-  Wochenende zu veranstalten. Frage in der Community, z.B. in Internetforen,
-  welche Wochenenden bevorzugt werden.
- </li>
- <li>
-  <b>Suche einen guten Raum</b><br/>
-  Ein guter Raum ist groß genug für die Anzahl an Personen, die du
-  annehmen möchtest. Es sollte leicht möglich sein den Raum
-  in einen Zuschauerbereich, einen Wartebereich und einen
-  Wettbewerbsbereich einzuteilen.
-  Sehr wichtig ist gutes Licht im geplanten Wettbewerbsbereich! Ebenso
-  sollte der Raum relativ leise und rauchfrei sein. Von Vorteil ist
-  natürlich auch, wenn Essen und Trinken in dem Raum nicht verboten sind.
-  Erfrage zu welchen Terminen du den Raum reservieren könntest, lege dich
-  jedoch besser nicht fest, bevor du Kontakt zur WCA aufgenommen hast.
- </li>
- <li>
-  <b>Suche dir genug Hilfe</b><br/>
-  Suche dir genug freiwillige Helfer, die auf jeden Fall kommen und dir
-  helfen können. Eine Competition zu organisieren ist immer Teamarbeit!
-  Alleine wird es schwer bis unmöglich.
- </li>
-</ul>
-
-<h2>Sobald du die Erlaubnis der WCA hast ...</h2>
-
-<ul>
- <li>
-  <b>Spreche erneut mit dem Vermieter</b><br/>
-  <u>Hole dir die Bestätigung vom Vermieter, dass du den Raum definitiv zu
-  dem abgesprochenen Termin haben kannst</u>. Erzähle ihm genau was du vor
-  hast und wie viele Personen kommen werden. Kläre rechtzeitig ob genug
-  Tische
-  und Stühle vorhanden sind, dass Toiletten existieren und ob
-  gegessen und getrunken werden darf.
- </li>
- <li>
-  <b>Erstelle einen Zeitplan</b><br/>
-  Überlege dir zunächst, welche Events du überhaupt auf deinem Turnier
-  veranstalten willst. Überlege dir dann, wann welches Event stattfinden
-  soll, wie lange es ungefähr dauern wird, wie viele Leute in die nächste
-  Runde kommen werden, etc. Um einen guten und funktionierenden Zeitplan
-  zu erstellen, braucht es etwas Erfahrung. Richte dich am besten bei
-  der Erstellung deines Zeitplans nach denen anderer Turniere mit
-  ähnlicher Teilnehmeranzahl, wie du es planst. Diese wirst du auf den
-  entsprechenden Webseiten finden. Spreche diesen Zeitplan mit dem WCA
-  Delegate ab und frage ihn, ob er deinen Zeitplan für realistisch hält
-  und ob er auch alle WCA Richtlinien erfüllt.
- </li>
- <li>
-  <b>Erstelle eine Webseite</b><br/>
-  Jede Competition sollte eine Webseite haben, auf der alle nötigen
-  Informationen (Termin, Ort, Zeitplan, Eintrittspreis) angekündigt werden.
-  Du solltest auch eine Liste von Übernachtungsmöglichkeiten in der Nähe
-  angeben. Praktisch ist auch, wenn sich die Teilnehmer direkt auf dieser
-  Webseite anmelden können (damit du weißt, wie viele kommen). Allerdings
-  stellt auch die WCA eine Anmeldefunktion zur Verfügung.
-  <b>Florian&nbsp;Weingarten</b> hat ein gut funktionierendes <i>Competition
-  Website Tool</i> programmiert und hostet aktuell die Webseiten der meisten
-  deutschen Competitions. Falls du nicht weißt, wie man eine Webseite
-  erstellt, melde dich bei ihm per E-Mail unter 
-  <a href="mailto:flo@hackvalue.de">flo@hackvalue.de</a>.
- </li>
- <li>
-  <b>Kontaktiere den Delegate erneut</b><br/>
-  Sobald du die letzten drei Schritte erledigt hast, kontaktiere den
-  Delegate erneut und teile ihm alle notwendigen Informationen mit.
-  Dazu gehören:
-  <ul>
-   <li>Name der Competition,</li>
-   <li>genaues Datum, d.h. die Tage an denen die Competition
-       stattfinden soll,</li>
-   <li>Veranstaltungsort inkl. Adresse,</li>
-   <li>Link zur Webseite der Competition,</li>
-   <li>Name der Organisatoren inkl. E-Mail Adresse,
-       unter der die Organisatoren erreichbar sind,</li>
-   <li>Liste der veranstalteten Events.</li>
-  </ul>
-  Der Delegate wird nun dem WCA Board von der Competition berichten
-  damit diese in den nächsten Tagen offiziell angekündigt wird.
- </li>
+  <li>
+    <b>Raum und Teilnehmerlimit</b><br/>
+    Versichere dich mittels eines Mietvertrags, dass der Raum auch für das
+    entsprechende Wochenende gebucht ist. Nun kannst du anhand der Größe des
+    Raumes ein entsprechendes Teilnehmerlimit mit dem Delegate zusammen
+    festlegen, ohne dass die Kapazitäten überschritten werden.
+  </li>
+  <li>
+    <b>Erstellung eines Zeitplans</b><br/>
+    Überlege dir zunächst, welche Events und wie viele Runden du jeweils auf
+    deinem Turnier veranstalten willst. Versuche damit einen gut
+    funktionierenden Zeitplan zu erstellen. Dazu ist ein Vergleich zu Zeitplänen
+    von Competitions mit einer ähnlichen Teilnehmerzahl hilfreich, um ein Gespür
+    dafür zu bekommen, wie lange einzelne Runden dauern. Sprich deinen Zeitplan
+    mit dem WCA Delegate ab und frage ihn, inwieweit er deinen Zeitplan für
+    geeignet hält.
+  </li>
+  <li>
+    <b>Eintrittsgeld</b><br/>
+    Bedenke stets, dass du alle Ausgaben für die Organisation vorstrecken musst.
+    Es ist nicht nur aus diesem Grund wichtig, zu Beginn der Planung eine
+    Kalkulation der Kosten zu erstellen. So kannst du anhand dieser Aufstellung
+    die Einnahmen kalkulieren, die durch Eintrittsgelder entstehen, sodass alle
+    Ausgaben gedeckt werden können.<br/>
+    Eine weitere Empfehlung ist das Verwenden eines Vorkassensystems. Auch bei
+    Nichterscheinen von Teilnehmern verfügst du dadurch über das Eintrittsgeld
+    und kannst fest damit planen, sobald sich ein Teilnehmer angemeldet hat.
+  </li>
+  <li>
+    <b>Website erstellen</b><br/>
+    Jede Competition benötigt eine Webseite mit den nötigen Informationen:
+    Termin, Ort, Zeitplan, Eintrittspreis und Anmeldefunktion. Darüber hinaus
+    kannst du eine Liste von Übernachtungsmöglichkeiten in der Nähe angeben.
+    Üblich für deutsche Competitions ist das von Florian Weingarten erstellte
+    Competition Website Tool (cubecomp.de), das alle nötigen Werkzeuge zur
+    Verfügung stellt, um eine gut gestaltete Webseite für den Wettbewerb zu
+    erzeugen. Um dort eine Webseite und einen Zugang zu erhalten, frage deinen
+    Delegate, der dir dabei helfen kann.<br/>
+    Alternativ gibt es auch auf der WCA-Seite die Möglichkeit, alle
+    Informationen anzugeben und die Anmeldefunktion zu nutzen.
+  </li>
 </ul>
 
 <h2>Vor der Competition</h2>
-
-<p>Was du in jedem Fall machen musst:</p>
+<p>
+  Auch zwischen Ankündigung und Durchführung der Competition gibt es einige
+  Dinge, die du erledigen musst:
+</p>
 
 <ul>
- <li>
-  <b>Bereite das Excel Worksheet vor</b><br/>
-  Mache dich mit Microsoft Excel (oder OpenOffice Spreadsheet) vertraut.
-  Die Ergebnisse der Competition werden in einer Excel Tabelle notiert
-  und deren Benutzung ist teilweise nicht ganz leicht. Bitte deinen
-  Delegate dir eine Kopie der Datei zuzusenden.
- </li>
- <li>
-  <b>Oder (empfohlen): Bereite cubecomps.com vor</b><br/>
-  In den letzten Jahren ist es immer üblicher geworden, die gut funktionierende
-  Webseite von <b>Luis&nbsp;Iáñez</b> <a href="http://www.cubecomps.com">www.cubecomps.com</a>
-  zu verwenden. Sie bietet eine schnellere Eingabe, leichteres Ausdrucken und 
-  bessern Überblick über die Ergebnisse. Jedoch brauchst du einen Internetzugang
-  um die Ergebnisse einzutragen. Erkundige dich vorab bei deinem Vermieter ob dies möglich ist,
-  oder stelle sicher, dass das mobile Internet im Veranstaltungsraum hinreichend ist, 
-  so dass du einen Hotspot verwenden kannst. Falls es sicher ist,
-  dass du Internetzugang haben wirst, kannst du entweder Luis über 
-  <a href="https://www.facebook.com/cubecomps">Facebook</a> kontaktieren,
-  oder deinen Delegate nach seiner E-Mail Adresse fragen.
- </li>
- <li>
-  <b>Installiere das Scrambling Programm der WCA</b><br/>
-  Es kann passieren, dass du während der Competition zusätzliche Scrambles
-  benötigst. Installiere dir daher die Scramble Programme
-  (siehe <a href="https://www.worldcubeassociation.org/regulations/scrambles/">WCA Regeln</a>)
-  auf deinem Computer.
- </li>
- <li>
-  <b>Drucke die Scoresheets und die Teilnehmerliste</b><br/>
-  Du solltest dich rechtzeitig darum kümmern alle Scoresheets
-  (Zettel, auf denen die Schiedsrichter die Ergebnisse notieren) zu drucken. 
-  Dies sollte spätestens am Tag vor der Competition erledigt werden, 
-  da während der Competitions schon genug zu tun sein wird.
-  An der Kasse im Eingangsbereich sollte außerdem eine Teilnehmerliste
-  bereit liegen und eventuell für jeden Teilnehmer ein Namensschild.
- </li>
- <li>
-  <b>Besorge Preise</b><br/>
-  Urkunden für die besten drei Teilnehmer jeder Kategorie sind ein Muss.
-  Wenn du nicht selber eine Urkunde entwerfen möchtest, dann frage einfach
-  den Delegate nach einer Vorlage.
-  Pokale, Medaillen oder andere Preise sind optional, aber immer eine
-  nette Geste. 
- </li>
- <li>
-  <b>Besorge die Scrambles</b><br/>
-  Kläre rechtzeitig mit dem Delegate ob er die Scrambles mitbringt
-  oder du sie selber drucken musst. Falls du sie drucken sollst,
-  tue dies rechtzeitig und nicht erst am Abend vorher!
- </li>
- <li>
-  <b>Lerne die WCA Regeln</b><br/>
-  Der WCA Delegate kennt alle Regeln sehr gut, aber auch der Organisator
-  sollte ausreichend vertraut sein und die gesamten Regeln
-  aufmerksam durchgearbeitet und verstanden haben. Sollten einzelne
-  Teile unklar sein, frage den WCA Delegate, ob er sie genauer erklären
-  kann.
- </li>
+  <li>
+    <b>Benötigtes Material</b><br/>
+    Für die Organisation eines Wettbewerbs sind verschiedene Dinge notwendig,
+    um einen erfolgreichen Ablauf zu ermöglichen. Die Wichtigsten sind hier
+    aufgezählt:
+    <ul>
+      <li>
+        <b>Papier:</b> Zum Drucken der Scrambles, Scoresheets, Zeitpläne, Groupings,
+        Scramblerlisten, usw. ist eine Menge Papier notwendig. Genauso sollte
+        während der Competition Papier vorrätig sein, um Ergebnisse, Scoresheets
+        für Folgerunden und andere spontan anfallende Dokumente, wie etwa
+        Wegweiser zu drucken. Es ist außerdem schön, wenn du für den Druck der
+        Urkunden etwas hochwertigeres Glanzpapier verwendest.
+      </li>
+      <li>
+        <b>Computer und Drucker:</b> Ein Computer (am besten Laptop) sowie Farbdrucker
+        sind unbedingt nötig für eine Competition. Du wirst die Ergebnisse am
+        Computer eintragen und Ergebnisse, Urkunden und weitere Dinge ausdrucken
+        müssen. Versichere dich auch, dass du ausreichend Druckerpatronen
+        kaufst.
+      </li>
+      <li>
+        <b>Stifte:</b> Um die Ergebnisse notieren zu können, sollte bei jedem Timer
+        mindestens ein Kugelschreiber bereit liegen (keine Bleistifte). Falls du
+        Fewest Moves als Event anbietest, solltest du entsprechend viele Stifte
+        wie Teilnehmer haben. Denke auch daran, Ersatz dabei zu haben.
+      </li>
+      <li>
+        <b>Batterien:</b> Zum Betreiben der Timer und Displays sind verschiedene
+        Batterien nötig. Frage deinen Delegate, welche Batterien er braucht,
+        bzw. ob und wie viele er selbst vorrätig hat, damit du diese
+        gegebenenfalls kaufen kannst.
+      </li>
+      <li>
+        <b>Namensschilder:</b> Du solltest für jeden Teilnehmer ein Namensschild
+        vorbereiten, damit die Teilnehmer sich untereinander auf dem Wettbewerb
+        direkt daran erkennen und mit Namen ansprechen können. Außerdem sind
+        Namensschilder ein äußerst praktisches Erkennungsmerkmal für
+        Organisatoren, mit dem erfolgreich registrierte und bezahlte Teilnehmer
+        gekennzeichnet werden können.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Cubecomps.com</b><br/>
+    Für die Verwaltung von Ergebnissen sollte die von Luis J. Iáñez erstellte
+    Website www.cubecomps.com genutzt werden. Sie bietet eine schnelle Eingabe,
+    leichteres Ausdrucken und einen guten Überblick über die Ergebnisse des
+    Wettbewerbs und stellt diese auch auf der Website für alle Interessierten
+    zur Verfügung. Kontaktiere Luis entweder über Facebook oder frage deinen
+    Delegate nach seiner E-Mail Adresse, um einen Zugang für deine Competition
+    anlegen zu lassen. Erkundige dich vorab beim Vermieter deines Raumes nach
+    einer vorhandenen Internetverbindung oder stelle sicher, dass das mobile
+    Internet im Veranstaltungsraum hinreichend ist, so dass du einen Hotspot
+    verwenden kannst.
+  </li>
+  <li>
+    <b>Stackmat Timer, Displays, Cover und Stoppuhren</b><br/>
+    Du wirst mehrere Timer und am besten auch Displays benötigen, damit die
+    Zuschauer die Zeiten sehen können. Außerdem sind Abdeckungen für die
+    gemischten Puzzle und Stoppuhren an den Timern zwingend notwendig.
+    Die deutschen Delegates haben entsprechendes Equipment. Sprich mit deinem
+    Delegate ab, was er zur Verfügung stellen und mitbringen kann.
+  </li>
 </ul>
 
-<p>Was du außerdem tun kannst:</p>
-
+<h2>Kurz vor der Competition</h2>
+<p>
+  Die nachfolgenden Aufgaben sind Dinge, die 1-2 Wochen vor der Competition
+  erledigt werden sollten:
+</p>
 <ul>
- <li>
-  <b>Kündige die Competition in der Community an</b><br/>
-  Jetzt ist es an der Zeit, kräftig Werbung zu machen. Nicht jeder
-  Speedcuber liest regelmäßig die WCA Webseite, daher solltest du in
-  möglichst vielen Internetforen deine Competition ankündigen
-  (z.B. <a href="http://www.speedcubers.de/">speedcubers.de</a>,
-  <a href="http://www.speedcube.de/">speedcube.de</a> und
-  <a href="http://www.speedsolving.com/">speedsolving.com</a>). Außerdem
-  könntest du eine Facebook-Gruppe für deine Competition erstellen. Mache
-  an so vielen Stellen wie möglich Werbung um möglichst viele
-  Teilnehmer und Zuschauer anzulocken.
- </li>
- <li>
-  <b>Kontaktiere die Medien</b><br/>
-  Rede mit der Presse. Schreibe verschiedene Fernsehsender, Radiosender,
-  Zeitungen, Magazine, Schülerzeitungen, etc. an und lade sie ein
-  deine Competition zu besuchen und darüber zu berichten.
- </li>
- <li>
-  <b>Besorge Verpflegung</b><br/>
-  Falls es finanziell machbar ist, solltest du kostenlose oder zumindest
-  preisgünstige Getränke und Snacks oder sogar richtiges Mittagessen
-  anbieten.
-  Dies ist erstens für die Teilnehmer angenehmer und zweitens musst
-  du dann nicht so viel Zeit für die Mittagspause einplanen.
-  Falls dies nicht möglich ist, solltest du das rechtzeitig
-  ankündigen, damit die Besucher ihr eigenes Essen mitbringen. Auf
-  jeden Fall
-  sollte eine Mittagspause im Zeitplan vorgesehen sein!
- </li>
+  <li>
+    <b>Grouping</b><br/>
+    Damit auf der Competition auch ausreichend Judges für alle Teilnehmer
+    verfügbar sind, ist es notwendig, die Teilnehmer eines Events in mehrere
+    Gruppen einzuteilen. Frage deinen Delegate nach einer sinnvollen Anzahl an
+    Gruppen pro Event, bevor du damit beginnst das Grouping zu erstellen. Zum
+    Erstellen lautet die Faustregel: Die Anzahl der Teilnehmer pro Gruppe ist
+    2 x die Anzahl der Timer für schnelle Events und etwa 1,5 x Anzahl der Timer
+    für langsamere Events.
+  </li>
+  <li>
+    <b>Scrambler-Liste</b><br/>
+    Auf deutschen Competitions ist es Standard, dass die Scrambler, die für das
+    Vermischen der Puzzles zuständig sind, schon vorab festgelegt werden. Wähle
+    dafür aus der Liste der Anmeldungen erfahrene Teilnehmer und teile diese
+    ein. Auch hier empfiehlt es sich Scrambler-Listen von Wettbewerben, die du
+    besucht hast, heranzuziehen, um sicherzustellen, dass für die Gruppen und
+    Events ausreichend Scrambler zur Verfügung stehen. Achte bei der Einteilung
+    darauf, dass einzelne Teilnehmer das jeweilige Puzzle auch mischen können
+    und nicht bei zu vielen Events eingetragen sind, sondern verteile diese
+    Aufgabe möglichst gleichmäßig auf die geeigneten Teilnehmer. Außerdem musst
+    du darauf achten, dass die Teilnehmer, die zum Vermischen eingeteilt sind,
+    nicht gleichzeitig als Teilnehmer der Gruppe eingeteilt sind.
+    Sprich sowohl das Grouping, als auch die Scrambler-Liste mit deinem Delegate
+    ab, bevor du sie an die Teilnehmer schickst!
+  </li>
+  <li>
+    <b>Scoresheets</b><br/>
+    Die Zettel, auf denen die Ergebnisse eines Teilnehmers in einem Event
+    eingetragen werden, können über cubecomps.com generiert werden. Drucke diese
+    rechtzeitig vor der Competition aus und schneide sie zurecht. Sortiere sie
+    anschließend nach dem Grouping.
+  </li>
+  <li>
+    <b>Zeitpläne, Teilnehmerliste und Grouping</b><br/>
+    Ebenso wie die Scoresheets solltest du den Zeitplan und das erstellte
+    Grouping vor dem Wettbewerb mehrmals ausdrucken und beim Wettbewerb
+    aufhängen. So wissen die Teilnehmer welche Events als nächstes stattfinden
+    werden und in welcher Gruppe sie dafür eingeteilt sind. Die Zeitpläne kannst
+    du über den Admin-Bereich von cubecomp.de drucken, genauso wie eine
+    Teilnehmerliste für die Registrierung im Eingangsbereich.
+  </li>
+  <li>
+    <b>Scrambles</b><br/>
+    Für alle offiziellen Events auf dem Wettbewerb werden Scrambles benötigt.
+    Diese generiert der Delegate. Wichtig ist jedoch, dass du mit diesem
+    abklärst, ob er sie direkt ausgedruckt mitbringt, ob du sie selbst
+    ausdrucken musst oder ob ihr diese auf der Competition auf einem
+    zusätzlichen Laptop anzeigen lasst.
+  </li>
 </ul>
 
 <h2>Während der Competition</h2>
-
 <ul>
- <li>
-  <b>Rechtzeitig da sein</b><br/>
-  Als Veranstalter solltest du am besten am Abend vorher oder zur Not
-  morgens vor der Competition den Raum herrichten. Stelle viele Tische
-  und Stühle auf, bereite den Wartebereich vor, überlege dir, wo du die
-  Timer und Displays aufbauen möchtest, usw. Sei rechtzeitig da, damit
-  alles nach Zeitplan verlaufen kann. Sobald du einmal im Zeitplan
-  hinterher bist, wird es sehr schwer werden die Zeit aufzuholen und du
-  wirst eventuell einzelne Events streichen müssen!
- </li>
- <li>
-  <b>Scrambler und Judges</b><br/>
-  Zu wenig Scrambler und zu wenig Judges sind der Hauptgrund, warum
-  Competitions ihren Zeitplan nicht einhalten können.
-  Achte stets darauf, ob genügend Helfer vorhanden sind und rufe
-  nach welchen, sollte dies nicht der Fall sein: Nach den Regeln
-  ist jeder Teilnehmer verpflichtet zu helfen! Hilft es nicht, laut nach Helfern 
-  zu rufen, dann sprich einfach Leute einzeln an.
- </li>
- <li>
-  <b>Ergebnisse eintragen</b><br/>
-  Suche dir einen Helfer, der sich mit Microsoft Excel, bzw. der cubecomps.com Webseite auskennt und
-  der die Ergebnisse eintragen kann. Das ist ein Fulltime Job! Es wird
-  fast während der gesamten Competition
-  jemand am PC sitzen müssen und Ergebnisse eintragen,
-  damit rechtzeitig die Ranglisten einer Runde fertig sind (um zu ermitteln,
-  wer in die nächste Runde kommt).
- </li>
- <li>
-  <b>Achte auf die Regeln</b><br/>
-  Werden die WCA Regeln massiv verletzt, kann der WCA Delegate
-  die Competition für
-  ungültig erklären und das wird alle Teilnehmer sehr verärgern. Sorge
-  also stets dafür, dass alle Regeln genau eingehalten werden.
- </li>
- <li>
-  <b>Kopie der Regeln</b><br/>
-  Da die wenigsten Leute alle Regeln auswendig kennen, solltest du eine
-  Kopie der Regeln (am besten in der englischen Originalversion und auch
-  als deutsche Übersetzung) vor Ort haben um im Zweifelsfall nachlesen
-  zu können. Eine PDF-Version auf dem Computer ist dabei ausreichend.
- </li>
- <li>
-  <b>Mache die Competition einzigartig</b><br/>
-  Überlege dir, wie du deine Competition von anderen Competitions
-  unterscheiden kannst und wie du dich hervorheben kannst. Z.B. durch
-  besondere und seltene Events, durch besonders gutes Essen, besondere
-  Preisregelungen (z.B. "alle Newcomer bekommen freien Eintritt") oder andere
-  Dinge.
- </li>
+  <li>
+    <b>Aufbau und Pünktlichkeit</b><br/>
+    Als Veranstalter solltest du möglichst am Abend vor der Competition den Raum
+    herrichten. Stelle ausreichend Tische und Stühle für alle Gäste auf, bereite
+    den Wartebereich und Tische für die Timer und Displays vor. Sei für den
+    Wettbewerb rechtzeitig da, damit alles nach Zeitplan verlaufen kann.
+  </li>
+  <li>
+    <b>Ablauf der Competition</b><br/>
+    Versuche, den Überblick über den Wettbewerb zu behalten. Dazu gehört unter
+    anderem das rechtzeitige Auslegen der Scoresheets für die nächste Gruppe
+    oder Runde, das Ausrufen der Teilnehmer und Scrambler, aber auch die Suche
+    nach Judges, falls zu wenige helfen sollten. Sobald du einmal im Zeitplan
+    hinterher bist, wird es schwer werden die Zeit aufzuholen. Wie bereits oben
+    erwähnt wird von dir und deinen Mitorganisatoren erwartet, dass ihr den
+    Ablauf der Competition eigenständig handhaben könnt. Sollte euch das nicht
+    gelingen, so wird der Delegate euch zwar unterstützen, im Idealfall sollte
+    dies aber nicht notwendig sein.
+  </li>
+  <li>
+    <b>Ergebnisse eintragen</b><br/>
+    Suche dir mindestens einen Helfer, der sich mit cubecomps.com auskennt und
+    dir die Ergebnisse eintragen kann. Unterschätze diese Arbeit nicht, sie
+    benötigt viel Zeit! Es wird fast während der gesamten Competition jemand am
+    PC sitzen und Ergebnisse eintragen müssen, damit rechtzeitig die Ranglisten
+    einer Runde fertig werden. Dies ist nötig, um Scoresheets für Folgerunden
+    drucken zu können.
+  </li>
 </ul>
 
+<p>
+  Dein Delegate steht dir immer für Fragen zur Verfügung. Stelle ihm lieber jede
+  offene Frage, bevor sie am Ende ungeklärt bleibt.
+</p>
 
 <h2>Häufig gestellte Fragen</h2>
-
-<p>
-<b>F:</b> Wie kann man abschätzen, was die Veranstaltung kosten wird? <br/>
-<b>A:</b> Das teuerste wird vermutlich der Raum. Wenn du den Raum irgendwie
-umsonst bekommen kannst (Gemeindezentrum der Kirche? Jugendzentrum?
-Universität? Schule?) dann wird es nicht so teuer. Vergiss aber nicht
-an andere variable Kosten wie z.B. das Essen und die Getränke zu denken.
-</p>
-
-<p>
-<b>F:</b> Wie bezahlt man das alles? <br/>
-<b>A:</b> Normalerweise kann man die Competition gut so planen, dass
-man bei Null rauskommt. Falls nicht, solltest du dich um Sponsoren
-bemühen (z.B. Jumbo Spiele oder Cubikon). Es besteht aber natürlich
-ein Restrisiko, dass du auf Kosten sitzen bleibst (z.B. weil
-weniger Personen erscheinen als erwartet).
-Am besten planst du so, dass du deine Kosten auch mit 80% der
-angemeldeten Teilnehmer deckst und sparst einen eventuellen
-Überschuss für die nächste Competition. Auch beim Thema Finanzen lohnt 
-es sich mit dem Delegate zu reden, da dieser viel Erfahrung hat und alles 
-gut einschätzen kann.
-</p>
-
-<p>
-<b>F:</b> Woher weiß man wie viele Leute ungefähr kommen? <br/>
-<b>A:</b> Schaue dir an, wie gut Competitions in deiner Nähe normalerweise
-besucht sind. Sprich mit der Community. Starte Umfragen in Internetforen.
-Behalte im Hinterkopf, dass so gut wie nie alle Leute erscheinen, die
- angemeldet sind, dafür aber auch oft Zuschauer oder Gäste unangemeldet
-aufkreuzen. <br/>
-</p>
-
-<p>
-<b>F:</b> Woher weiß ich, welcher Termin am besten ist? <br/>
-<b>A:</b> An deinem Termin sollten keine anderen Competitions in der Nähe
-stattfinden. Am
-besten auch an dem Wochenende davor und danach nicht. Sprich mit der
-Community und starte eventuell Umfragen, welche Termine am beliebtesten sind.
-</p>
-
-<p>
-<b>F:</b> Wo bekomme ich das ganze Equipment? <br/>
-<b>A:</b> Du könntest es kaufen, was sich besonders dann lohnt, wenn du vor
-hast noch öfter eine Competition zu organisieren. Meistens ist das aber
-zu teuer. Sprich mit dem Delegate oder anderen Helfern, ob sie dir
-aushelfen können. Der Delegate stellt in der Regel die Timer und Displays
-zur Verfügung.
-</p>
-
-<p>
-<b>F:</b> Muss ich den WCA Delegate bezahlen? <br/>
-<b>A:</b> WCA Delegate ist ein Ehrenamt. Delegates müssen nicht bezahlt werden,
-aber die Anreisekosten zu übernehmen oder eine kostenlose
-Übernachtungsmöglichkeit sowie ein kleines Dankeschöngeschenk sind eine
-nette Geste.
-</p>
-
-<p>
-<b>F:</b> Kann ich nicht selbst Delegate meiner Competition sein? <br/>
-<b>A:</b> Nein, ein Delegate ist ein Vertreter der WCA. Um Delegate zu
-werden musst du bei der WCA bekannt sein und von einem anderen Delegate,
-der dich gut kennt, vorgeschlagen und empfohlen werden. Das geht nicht
-von heute auf morgen.
-</p>
+<ul>
+<li>
+  <b>F:</b> Wie kann ich auch ohne eigene Turniererfahrung einen Wettbewerb in
+  meiner Stadt veranstalten?<br/>
+  <b>A:</b> Grundsätzlich geht das leider gar nicht, denn die Erfahrung von
+  anderen Wettbewerben ist wichtig, um selbst wissen zu können, wie ein
+  Wettbewerb ablaufen muss. Besuche andere Wettbewerbe, beobachte dort die
+  Arbeit der Organisatoren und sprich einen Delegate an, um mit ihm über deine
+  Möglichkeiten zu diskutieren. Wenn du genug Erfahrung gesammelt hast oder
+  Hilfe eines erfahrenen Organisators bekommst, stehen deine Chancen besser,
+  auch selbst einen Wettbewerb organisieren zu können.
+</li>
+<li>
+  <b>F:</b> Woher weiß man wie viele Leute ungefähr kommen?<br/>
+  <b>A:</b> Schaue dir an, wie gut Competitions in deiner Nähe besucht sind, und
+  sprich mit deinem Delegate, wie viele Teilnehmer in deiner Region auf einem
+  Wettbewerb zu erwarten sind. Beziehe dabei vor allem auch mögliche
+  Besucherzahlen mit ein.
+</li>
+<li>
+  <b>F:</b> Woher weiß ich, welcher Termin am besten ist?<br/>
+  <b>A:</b> An deinem geplanten Termin sollten keine anderen Competitions in der
+  Nähe stattfinden. Die WCA gibt Regeln vor, nach denen Competitions einen
+  zeitlichen und räumlichen Abstand zueinander haben müssen. Sprich mit deinem
+  Delegate, ob andere Comeptitions in dem Zeitraum geplant sind, den du ins Auge
+  gefasst hattest.
+</li>
+<li>
+  <b>F:</b> Muss ich den WCA Delegate bezahlen?<br/>
+  <b>A:</b> Der WCA Delegate ist ehrenamtlich tätig. Delegates müssen nicht
+  bezahlt werden, aber die Anreisekosten zu übernehmen oder eine kostenlose
+  Übernachtungsmöglichkeit anzubieten, sind eine nette Geste.
+</li>
+<li>
+  <b>F:</b>: Kann ich nicht selbst Delegate meiner Competition sein?<br/>
+  <b>A:</b> Nein, ein Delegate ist ein offizieller Vertreter der WCA. Um
+  Delegate zu werden, musst du bei der WCA bekannt sein und von einem anderen
+  Delegate, der dich gut kennt, vorgeschlagen und empfohlen werden.
+</li>
 
 <? include "footer.php" ?>
