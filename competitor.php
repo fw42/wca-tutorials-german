@@ -29,6 +29,13 @@ Auf jedem Turnier ist mindestens ein offizieller WCA Delegierter anwesend, der d
 der Regeln überwacht und stets gerufen werden sollte, wenn jemand nicht genau weiß, was zu tun ist.
 </p>
 
+
+<p>
+  Die WCA stellt seit November 2018 ebenfalls ein
+  <a href="https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf">WCA Competition Tutorial</a>
+  zur Verfügung. Sollten zwischen diesen Tutorials Abweichungen vorhanden sein, ist im Zweifelsfall immer die von der WCA bereitgestellte englische Version vorzuziehen.
+</p>
+
 <p>Achtung! Dies nur eine vereinfachte Zusammenfassung für Neulinge. Vor der Teilnahme an einem
 Turnier sollte jeder Teilnehmer die vollständigen WCA Regulations gelesen haben. Eine deutsche
 Übersetzung gibt es hier: <a href="https://www.worldcubeassociation.org/regulations/translations/german/">https://www.worldcubeassociation.org/regulations/translations/german/</a>.</p>

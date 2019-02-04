@@ -55,10 +55,10 @@ und Linus Fresz
     anderem dafür zuständig sicherzustellen, dass eine Competition gemäß den WCA
     Regeln abläuft und die Organisatoren zu beraten und - wenn nötig - zu
     unterstützen. In Deutschland sind dies momentan <b>Sébastien Auroux</b>
-    (<a href="mailto:sebastien.auroux@gmx.net">E-Mail</a>),
-    <b>Laura Ohrndorf</b> (<a href="mailto:laura.ohrndorf@gmail.com">E-Mail</a>)
-    aus Paderborn und <b>Linus Fresz</b>
-    (<a href="mailto:linuf95@gmail.com">E-Mail</a>) aus Regensburg.<br/>
+    (<a href="mailto:sauroux@worldcubeassociation.org">E-Mail</a>),
+    <b>Laura Ohrndorf</b> (<a href="mailto:lohrndorf@worldcubeassociation.org">E-Mail</a>)
+    aus Paderborn und <b>Linus Frész</b>
+    (<a href="mailto:lfresz@worldcubeassociation.org">E-Mail</a>) aus Regensburg.<br/>
     Kontaktiere einen der oben genannten Delegates mit Informationen über deine
     Pläne. Wenn möglich, präsentiere bereits einen Raum, der für eine
     Competition geeignet ist. Es ist sehr sinnvoll, den Delegate frühzeitig zu
